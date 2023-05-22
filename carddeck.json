@@ -1,0 +1,4399 @@
+{
+"decks": [{
+  "id": 1,
+  "title": "Love Maps",
+  "description": "An important factor in relationship success is \u201cknowing\u201d about your partner\u2019s inner world; we call this idea Love Maps.",
+  "instructions": "Swipe through the deck and see if you can answer the question as it relates to your partner. Then switch roles. Have your partner swipe through the deck and try to answer as it pertains to your world. Don\u2019t keep score. The goal is meaningful conversation and connection.",
+  "cards": [
+    {
+      "id": 1,
+      "content": "Name your partner\u2019s two closest friends."
+    },
+    {
+      "id": 2,
+      "content": "What is your partner\u2019s favorite musical group, composer, or instrument?"
+    },
+    {
+      "id": 3,
+      "content": "What was your partner wearing when you first met?"
+    },
+    {
+      "id": 4,
+      "content": "What are your partner\u2019s hobbies?"
+    },
+    {
+      "id": 5,
+      "content": "Where was your partner born?"
+    },
+    {
+      "id": 6,
+      "content": "What stresses are facing your partner in the immediate future?"
+    },
+    {
+      "id": 7,
+      "content": "Describe in detail your partner\u2019s day, either today or yesterday."
+    },
+    {
+      "id": 8,
+      "content": "When is your partner\u2019s birthday?"
+    },
+    {
+      "id": 9,
+      "content": "What is the date of your anniversary?"
+    },
+    {
+      "id": 10,
+      "content": "Who is your partner\u2019s favorite relative?"
+    },
+    {
+      "id": 11,
+      "content": "What is your partner\u2019s fondest dream, as yet unachieved?"
+    },
+    {
+      "id": 12,
+      "content": "What is your partner\u2019s favorite flower?"
+    },
+    {
+      "id": 13,
+      "content": "What is one of your partner\u2019s worst fears?"
+    },
+    {
+      "id": 14,
+      "content": "What is your partner\u2019s favorite time for making love?"
+    },
+    {
+      "id": 15,
+      "content": "What makes your partner feel most competent?"
+    },
+    {
+      "id": 16,
+      "content": "What turns your partner on sexually?"
+    },
+    {
+      "id": 17,
+      "content": "What is your partner\u2019s favorite food?"
+    },
+    {
+      "id": 18,
+      "content": "What is your partner\u2019s favorite way to spend an evening?"
+    },
+    {
+      "id": 19,
+      "content": "What personal improvements does your partner want to make in their life?"
+    },
+    {
+      "id": 20,
+      "content": "What kind of present would your partner like best?"
+    },
+    {
+      "id": 21,
+      "content": "What was one of your partner\u2019s best childhood experiences?"
+    },
+    {
+      "id": 22,
+      "content": "What was your partner\u2019s favorite vacation?"
+    },
+    {
+      "id": 23,
+      "content": "What is one of your partner\u2019s favorite ways of being soothed?"
+    },
+    {
+      "id": 24,
+      "content": "Who is your partner\u2019s greatest source of support (other than you)?"
+    },
+    {
+      "id": 25,
+      "content": "What is your partner\u2019s favorite sport?"
+    },
+    {
+      "id": 26,
+      "content": "What does your partner like to do with time off?"
+    },
+    {
+      "id": 27,
+      "content": "What is one of your partner\u2019s favorite weekend activities?"
+    },
+    {
+      "id": 28,
+      "content": "What is your partner\u2019s favorite getaway place?"
+    },
+    {
+      "id": 29,
+      "content": "What is your partner\u2019s favorite movie?"
+    },
+    {
+      "id": 30,
+      "content": "What are some of the important events coming up in your partner\u2019s life and how do they feel about these events?"
+    },
+    {
+      "id": 31,
+      "content": "What are some of your partner\u2019s favorite ways to exercise?"
+    },
+    {
+      "id": 32,
+      "content": "What is your partner\u2019s favorite cologne or perfume?"
+    },
+    {
+      "id": 33,
+      "content": "Who was your partner\u2019s best friend in childhood?"
+    },
+    {
+      "id": 34,
+      "content": "What is one of your partner\u2019s favorite magazines?"
+    },
+    {
+      "id": 35,
+      "content": "Name one of your partner\u2019s major rivals or \u201cenemies.\u201d"
+    },
+    {
+      "id": 36,
+      "content": "What would be an ideal job for your partner?"
+    },
+    {
+      "id": 37,
+      "content": "What is your partner\u2019s greatest fear?"
+    },
+    {
+      "id": 38,
+      "content": "Who is your partner\u2019s least favorite relative?"
+    },
+    {
+      "id": 39,
+      "content": "What is your partner\u2019s favorite holiday?"
+    },
+    {
+      "id": 40,
+      "content": "What is your partner\u2019s favorite kind of reading?"
+    },
+    {
+      "id": 41,
+      "content": "What is your partner currently most sad about?"
+    },
+    {
+      "id": 42,
+      "content": "What is one of your partner\u2019s concerns or worries?"
+    },
+    {
+      "id": 43,
+      "content": "What medical problems does your partner worry about?"
+    },
+    {
+      "id": 44,
+      "content": "What is your partner\u2019s worst childhood experience?"
+    },
+    {
+      "id": 45,
+      "content": "Which people does your partner most admire in the world? Name two."
+    },
+    {
+      "id": 46,
+      "content": "Who is your partner\u2019s least favorite person you both know?"
+    },
+    {
+      "id": 47,
+      "content": "What is one of your partner\u2019s favorite desserts?"
+    },
+    {
+      "id": 48,
+      "content": "What is one of your partner\u2019s favorite novels?"
+    },
+    {
+      "id": 49,
+      "content": "What is your partner\u2019s favorite romantic restaurant?"
+    },
+    {
+      "id": 50,
+      "content": "What are two of your partner\u2019s aspirations, hopes, or wishes?"
+    },
+    {
+      "id": 51,
+      "content": "Does your partner have a secret ambition? What is it?"
+    },
+    {
+      "id": 52,
+      "content": "What foods does your partner hate?"
+    },
+    {
+      "id": 53,
+      "content": "What is your partner\u2019s favorite animal?"
+    },
+    {
+      "id": 54,
+      "content": "What is your partner\u2019s favorite song?"
+    },
+    {
+      "id": 55,
+      "content": "What is your partner\u2019s favorite tree?"
+    },
+    {
+      "id": 56,
+      "content": "What is your partner\u2019s favorite color?"
+    },
+    {
+      "id": 57,
+      "content": "What is your partner\u2019s favorite TV show?"
+    },
+    {
+      "id": 58,
+      "content": "Who is your partner\u2019s favorite poet?"
+    },
+    {
+      "id": 59,
+      "content": "What is your partner\u2019s favorite side of the bed?"
+    },
+    {
+      "id": 60,
+      "content": "What was your partner\u2019s most embarrassing moment?"
+    }
+  ]
+},
+{
+  "id": 2,
+  "title": "Open-Ended Questions",
+  "description": "Open-ended questions can\u2019t be answered with a simple \u201cyes\u201d or \u201cno.\u201d They have stories for answers. Uncover your hopes and dreams to deepen your understanding.",
+  "instructions": "Take turns asking each other questions. If your partner doesn\u2019t want to answer the question, pick another card. Do not be judgemental or critical as you listen to your partner\u2019s answer. Instead, be a \u201cdream detective.\u201d Alternate roles as speaker and listener.",
+  "cards": [
+    {
+      "id": 1,
+      "content": "What do you want your life to be like in, say, three years from now?"
+    },
+    {
+      "id": 2,
+      "content": "How do you see your work changing in the future?"
+    },
+    {
+      "id": 3,
+      "content": "How do you feel about our physical home? Any architectural changes you\u2019d like to make?"
+    },
+    {
+      "id": 4,
+      "content": "As a new parent, how would you compare yourself to your own parent(s)?"
+    },
+    {
+      "id": 5,
+      "content": "What kind of person do you think our child(ren) will become? Any fears? Any hopes?"
+    },
+    {
+      "id": 6,
+      "content": "Is our child like anyone in your family? Who?"
+    },
+    {
+      "id": 7,
+      "content": "How do you feel about your family right now? Have these feelings changed lately?"
+    },
+    {
+      "id": 8,
+      "content": "How do you feel about work right now?"
+    },
+    {
+      "id": 9,
+      "content": "How are you feeling now about being a parent?"
+    },
+    {
+      "id": 10,
+      "content": "What do you find exciting in life right now?"
+    },
+    {
+      "id": 11,
+      "content": "What are your biggest worries about the future?"
+    },
+    {
+      "id": 12,
+      "content": "How do you think we could have more fun in our life?"
+    },
+    {
+      "id": 13,
+      "content": "Who are your best allies and close friends right now? How have they or you changed?"
+    },
+    {
+      "id": 14,
+      "content": "How have your friendships changed lately? Have you grown closer to some friends? More distant from others?"
+    },
+    {
+      "id": 15,
+      "content": "Who in your life is most stressful for you? Why?"
+    },
+    {
+      "id": 16,
+      "content": "What do you need right now in a friend?"
+    },
+    {
+      "id": 17,
+      "content": "What things are missing in your life?"
+    },
+    {
+      "id": 18,
+      "content": "How have you changed in the last year?"
+    },
+    {
+      "id": 19,
+      "content": "Have your goals in life changed recently?"
+    },
+    {
+      "id": 20,
+      "content": "What are some of your life dreams now?"
+    },
+    {
+      "id": 21,
+      "content": "What goals do you have for our family?"
+    },
+    {
+      "id": 22,
+      "content": "What goals do you have just for your self right now?"
+    },
+    {
+      "id": 23,
+      "content": "What is one way you would like to change?"
+    },
+    {
+      "id": 24,
+      "content": "What legacy do you want our family to take from your family? From your culture?"
+    },
+    {
+      "id": 25,
+      "content": "What are some unfulfilled things in your life?"
+    },
+    {
+      "id": 26,
+      "content": "What would you change about our finances right now?"
+    },
+    {
+      "id": 27,
+      "content": "Where would you like to travel?"
+    },
+    {
+      "id": 28,
+      "content": "What adventures would you like to have before you die?"
+    },
+    {
+      "id": 29,
+      "content": "How has your outlook on life changed in the past two years?"
+    },
+    {
+      "id": 30,
+      "content": "If you could live one other person\u2019s life, whose life would you choose and why?"
+    },
+    {
+      "id": 31,
+      "content": "If you could live during any other time period in history, when would you choose to live and why?"
+    },
+    {
+      "id": 32,
+      "content": "What do you imagine your life would be like if you lived 100 years from now?"
+    },
+    {
+      "id": 33,
+      "content": "If you could design the perfect house for us, what would it look like?"
+    },
+    {
+      "id": 34,
+      "content": "If you could choose any other career or vocation other than what you do now, what would you choose and why?"
+    },
+    {
+      "id": 35,
+      "content": "What were the highlights and low-lights of your adolescence?"
+    },
+    {
+      "id": 36,
+      "content": "If you could wake up tomorrow with three new skills in which you excelled, what would they be and why?"
+    },
+    {
+      "id": 37,
+      "content": "If you could re-do any decade of your life, which decade would you choose and why?"
+    },
+    {
+      "id": 38,
+      "content": "What kind of year has this been for you? Tell me the story of your proudest moment."
+    },
+    {
+      "id": 39,
+      "content": "How have you changed as your parents\u2019 child ?"
+    },
+    {
+      "id": 40,
+      "content": "How have you changed as a sibling?"
+    },
+    {
+      "id": 41,
+      "content": "What relatives have you felt closest to and why?"
+    },
+    {
+      "id": 42,
+      "content": "Who has been the most difficult person in your life (other than a partner or spouse) and why?"
+    },
+    {
+      "id": 43,
+      "content": "If you could change into any animal for 24 hours, what would it be and why?"
+    },
+    {
+      "id": 44,
+      "content": "Who was your childhood hero or heroine and why?"
+    },
+    {
+      "id": 45,
+      "content": "If you could live in any other country but your home country, which would you pick and why?"
+    },
+    {
+      "id": 46,
+      "content": "If you could experience being any other person for 24 hours, who would you pick and why?"
+    },
+    {
+      "id": 47,
+      "content": "If you could be a genius in any art, music, drama, or dance, which talent would you choose and why?"
+    },
+    {
+      "id": 48,
+      "content": "If you could be a superstar in any sport, which sport would you choose and why?"
+    },
+    {
+      "id": 49,
+      "content": "If you could be the richest person in the world, what would you do with your money?"
+    },
+    {
+      "id": 50,
+      "content": "If you could look like anyone else in the world, who would you pick & why?"
+    },
+    {
+      "id": 51,
+      "content": "If you could change one characteristic about yourself, what would it be and why?"
+    }
+  ]
+},
+{
+  "id": 3,
+  "title": "Rituals of Connection",
+  "description": "A Ritual of Connection is a method of turning towards your partner that can be counted on. Use this deck to decide which rituals to include in your lives together.",
+  "instructions": "Select a card and discuss whether you would like to incorporate the ritual in your relationship, and if so, exactly how it should go, who should do what and when, and how it should end. Be sure to talk about if and why this is important to you, and how this ritual was handled (or mishandled) in your family or in previous relationships.",
+  "cards": [
+    {
+      "id": 1,
+      "content": "Planning and going on vacations"
+    },
+    {
+      "id": 2,
+      "content": "Communicating appreciation for your partner"
+    },
+    {
+      "id": 3,
+      "content": "Bringing friends into our home"
+    },
+    {
+      "id": 4,
+      "content": "Meal times"
+    },
+    {
+      "id": 5,
+      "content": "Celebrating success"
+    },
+    {
+      "id": 6,
+      "content": "Communicating daily appreciations"
+    },
+    {
+      "id": 7,
+      "content": "Throwing small dinner parties"
+    },
+    {
+      "id": 8,
+      "content": "Having a big party at home"
+    },
+    {
+      "id": 9,
+      "content": "Initiating lovemaking"
+    },
+    {
+      "id": 10,
+      "content": "Refusing lovemaking"
+    },
+    {
+      "id": 11,
+      "content": "Talking about how to improve lovemaking"
+    },
+    {
+      "id": 12,
+      "content": "Celebrating birthdays"
+    },
+    {
+      "id": 13,
+      "content": "Celebrating anniversaries"
+    },
+    {
+      "id": 14,
+      "content": "Celebrating holidays"
+    },
+    {
+      "id": 15,
+      "content": "Renewing ourselves when we are fatigued or burned out"
+    },
+    {
+      "id": 16,
+      "content": "Dealing with bad luck or hard days"
+    },
+    {
+      "id": 17,
+      "content": "Getting ready for bed"
+    },
+    {
+      "id": 18,
+      "content": "Falling asleep"
+    },
+    {
+      "id": 19,
+      "content": "Waking in the morning"
+    },
+    {
+      "id": 20,
+      "content": "Bringing up issues in our relationship"
+    },
+    {
+      "id": 21,
+      "content": "Expressing needs"
+    },
+    {
+      "id": 22,
+      "content": "Taking leave of one another (saying goodbye)"
+    },
+    {
+      "id": 23,
+      "content": "Reunions (saying hello)"
+    },
+    {
+      "id": 24,
+      "content": "Discussing stressful events"
+    },
+    {
+      "id": 25,
+      "content": "Spending time together on weekends"
+    },
+    {
+      "id": 26,
+      "content": "Planning and going on dates"
+    },
+    {
+      "id": 27,
+      "content": "Taking care of one another when one of us gets sick"
+    },
+    {
+      "id": 28,
+      "content": "Spending time with in-laws/extended family"
+    },
+    {
+      "id": 29,
+      "content": "Spending time with the kids in the evenings"
+    },
+    {
+      "id": 30,
+      "content": "Getting the kids ready for school in the morning"
+    },
+    {
+      "id": 31,
+      "content": "Shopping for groceries"
+    },
+    {
+      "id": 32,
+      "content": "Planning small adventures near our hometown (\u201cstay-cations\u201d)"
+    },
+    {
+      "id": 33,
+      "content": "Dreaming of the future"
+    },
+    {
+      "id": 34,
+      "content": "Setting goals together"
+    },
+    {
+      "id": 35,
+      "content": "Making meals at home and preparing recipes together"
+    },
+    {
+      "id": 36,
+      "content": "Planning for the upcoming week"
+    },
+    {
+      "id": 37,
+      "content": "Sharing tea or coffee together"
+    },
+    {
+      "id": 38,
+      "content": "Learning or taking classes together (dancing, cooking, etc.)"
+    },
+    {
+      "id": 39,
+      "content": "Participating in individual or joint hobbies"
+    },
+    {
+      "id": 40,
+      "content": "Spending time in nature"
+    },
+    {
+      "id": 41,
+      "content": "Running errands"
+    },
+    {
+      "id": 42,
+      "content": "Volunteering in the community"
+    },
+    {
+      "id": 43,
+      "content": "Playing board games at home"
+    },
+    {
+      "id": 44,
+      "content": "Exercising together"
+    },
+    {
+      "id": 45,
+      "content": "Sharing highs and lows"
+    },
+    {
+      "id": 46,
+      "content": "Staying in touch throughout the day using technology (texting/other message rituals)"
+    },
+    {
+      "id": 47,
+      "content": "Disconnecting from devices and technology for a period of time in order to give undivided attention to each other"
+    },
+    {
+      "id": 48,
+      "content": "Telling each other when we are overwhelmed or flooded"
+    },
+    {
+      "id": 49,
+      "content": "Making breakfast"
+    },
+    {
+      "id": 50,
+      "content": "Lazy weekend mornings at home"
+    },
+    {
+      "id": 51,
+      "content": "Being playful and silly with one another"
+    },
+    {
+      "id": 52,
+      "content": "Using time while traveling together (drive time, flying time, etc)"
+    },
+    {
+      "id": 53,
+      "content": "Staying connected while we are apart (during the work day, when one of us is traveling, etc.)"
+    },
+    {
+      "id": 54,
+      "content": "Giving back to our community together"
+    },
+    {
+      "id": 55,
+      "content": "Fostering a sense of adventure in our lives"
+    }
+  ]
+},
+{
+  "id": 4,
+  "title": "Opportunity",
+  "description": "It\u2019s the little things that build trust, friendship, and closeness. This deck will help you recognize and act on the small, everyday moments that build intimacy in meaningful ways.",
+  "instructions": "It\u2019s important  to have fun together as a couple! When you are at a loss for ideas, use these activity suggestions to plan your next date night or outing. Swipe through until you find something you both want to do.",
+  "cards": [
+    {
+      "id": 1,
+      "content": "Bring home something special for your partner (like flowers)."
+    },
+    {
+      "id": 2,
+      "content": "Get tickets to an exciting concert."
+    },
+    {
+      "id": 3,
+      "content": "Take a class together."
+    },
+    {
+      "id": 4,
+      "content": "Learn a new language and culture together. Visit that country if possible."
+    },
+    {
+      "id": 5,
+      "content": "Find out your partner\u2019s favorite play and go see it."
+    },
+    {
+      "id": 6,
+      "content": "Give your partner a full day off from household chores."
+    },
+    {
+      "id": 7,
+      "content": "Make a sexy music playlist just for your partner."
+    },
+    {
+      "id": 8,
+      "content": "Plan a picnic for the two of you."
+    },
+    {
+      "id": 9,
+      "content": "Return to your honeymoon place or revisit a favorite location."
+    },
+    {
+      "id": 10,
+      "content": "Give your partner a special massage. (If you don\u2019t know how, watch a Youtube video or get a book and learn.)"
+    },
+    {
+      "id": 11,
+      "content": "Buy a surprise present for your partner."
+    },
+    {
+      "id": 12,
+      "content": "Plan a reunion party of all your partner\u2019s friends."
+    },
+    {
+      "id": 13,
+      "content": "Discover your partner\u2019s turn ons and incorporate them into lovemaking."
+    },
+    {
+      "id": 14,
+      "content": "Find out your partner\u2019s favorite movies and watch them together."
+    },
+    {
+      "id": 15,
+      "content": "Leave little notes all over the house with small endearments and express genuine appreciation."
+    },
+    {
+      "id": 16,
+      "content": "Take a leisurely bath together."
+    },
+    {
+      "id": 17,
+      "content": "Go out to dinner and ask your partner questions about how their life is going."
+    },
+    {
+      "id": 18,
+      "content": "Go to a wine tasting party."
+    },
+    {
+      "id": 19,
+      "content": "Plan a candlelight dinner."
+    },
+    {
+      "id": 20,
+      "content": "Find out your partner\u2019s favorite protagonsit and read a book about them."
+    },
+    {
+      "id": 21,
+      "content": "Go out dancing."
+    },
+    {
+      "id": 22,
+      "content": "Plan a weekend camping trip together."
+    },
+    {
+      "id": 23,
+      "content": "Go clothes shopping for your partner and buy something you would like to see them   in."
+    },
+    {
+      "id": 24,
+      "content": "Look through an online store your partner likes and order something from it to surprise them."
+    },
+    {
+      "id": 25,
+      "content": "Bring home your partner\u2019s favorite dessert (like chocolates), prepare their favorite tea or coffee, and serve her (him)."
+    },
+    {
+      "id": 26,
+      "content": "Write a love letter and mail it to your partner."
+    },
+    {
+      "id": 27,
+      "content": "Prepare a surprise breakfast in bed."
+    },
+    {
+      "id": 28,
+      "content": "Plan some way that you would like to improve your home."
+    },
+    {
+      "id": 29,
+      "content": "Plan a surprise party for your partner."
+    },
+    {
+      "id": 30,
+      "content": "Surprise your partner with two tickets to some interesting place or event."
+    },
+    {
+      "id": 31,
+      "content": "Buy tickets to a play that your partner wants to see."
+    },
+    {
+      "id": 32,
+      "content": "Find or write a poem that expresses a genuine appreciation of your partner."
+    },
+    {
+      "id": 33,
+      "content": "Plan a weekend getaway."
+    },
+    {
+      "id": 34,
+      "content": "Plan a Valentine\u2019s getaway."
+    },
+    {
+      "id": 35,
+      "content": "Plan a date."
+    },
+    {
+      "id": 36,
+      "content": "Plan a cruise or vacation."
+    },
+    {
+      "id": 37,
+      "content": "Find out your partner\u2019s favorite novel and read it."
+    },
+    {
+      "id": 38,
+      "content": "Plan a monthly book club for the two of you and switch off choosing the book."
+    },
+    {
+      "id": 39,
+      "content": "Spend time together in the garden."
+    },
+    {
+      "id": 40,
+      "content": "Check out nearby museums together. (Often museums have discounted or free days!)"
+    },
+    {
+      "id": 41,
+      "content": "Read the local events paper and go to a festival or cultural event in your city."
+    },
+    {
+      "id": 42,
+      "content": "Spend the day doing an activity or hobby of your partner\u2019s choosing."
+    },
+    {
+      "id": 43,
+      "content": "Plan to attend a volunteering event."
+    },
+    {
+      "id": 44,
+      "content": "Plan a scavenger hunt for your partner around your home or around the city."
+    },
+    {
+      "id": 45,
+      "content": "Make up words for a secret language together."
+    },
+    {
+      "id": 46,
+      "content": "Rent bikes and explore the city together."
+    },
+    {
+      "id": 47,
+      "content": "Spend a rainy day cuddled on the couch with a good movie or TV show and order food in."
+    },
+    {
+      "id": 48,
+      "content": "Cook a new recipe together that you\u2019ve been wanting to try."
+    },
+    {
+      "id": 49,
+      "content": "Wake up early and watch the sunrise together."
+    },
+    {
+      "id": 50,
+      "content": "Go to a comedy show."
+    },
+    {
+      "id": 51,
+      "content": "Learn how to paint or do pottery together."
+    },
+    {
+      "id": 52,
+      "content": "Go to an amusement park."
+    },
+    {
+      "id": 53,
+      "content": "Have a water balloon or super-soaker fight on a hot summer day."
+    },
+    {
+      "id": 54,
+      "content": "Build a snowman together and have a snowball fight."
+    },
+    {
+      "id": 55,
+      "content": "Do an exercise challenge together."
+    },
+    {
+      "id": 56,
+      "content": "Disconnect to connect: decide on a period of time together that electronic devices will not be turned on at home."
+    },
+    {
+      "id": 57,
+      "content": "Watch a TED talk or other inspiring video together to learn a new concept together."
+    },
+    {
+      "id": 58,
+      "content": "View your old home videos of special couple or family memories."
+    },
+    {
+      "id": 59,
+      "content": "Develop a dinner menu together that includes both your partner\u2019s and your favorite dishes."
+    },
+    {
+      "id": 60,
+      "content": "Plan a game night. Enjoy a night in playing board/card games together."
+    }
+  ]
+},
+{
+  "id": 13,
+  "title": "Sex Questions",
+  "description": "The more you know about your partner sexually, the better lover you\u2019ll be and the better sex you\u2019ll have.",
+  "instructions": "This deck builds trust and intimacy both inside and outside the bedroom. Swipe through the deck and pick one or two questions to ask your partner. The answers will create an erotic Love Map that you and your partner will want to update again and again as you learn about each other\u2019s fantasies, turn ons, and turn offs.",
+  
+  "cards": [
+    {
+      "id": 1,
+      "content": "How do you define \u201csex\u201d?"
+    },
+    {
+      "id": 2,
+      "content": "How important is it for you to have an orgasm when we have sex?"
+    },
+    {
+      "id": 3,
+      "content": "What is it like for you when you have an orgasm? What are the physical sensations?"
+    },
+    {
+      "id": 4,
+      "content": "Do you ever have difficulty reaching orgasm? How can I support you?"
+    },
+    {
+      "id": 5,
+      "content": "How do you feel if one of us has an orgasm and the other does not? "
+    },
+    {
+      "id": 6,
+      "content": "Do you ever worry that it takes you too long to have an orgasm or that you orgasm too quickly?"
+    },
+    {
+      "id": 7,
+      "content": "What does being aroused feel like for you? What are some of the sensations?"
+    },
+    {
+      "id": 8,
+      "content": "What can I do to help you feel aroused?"
+    },
+    {
+      "id": 9,
+      "content": "What can I do to improve the experience of orgasm for you?"
+    },
+    {
+      "id": 10,
+      "content": "After you have an orgasm, what do you need from me?"
+    },
+    {
+      "id": 11,
+      "content": "If you do not orgasm during intercourse, do you like to use masturbation to reach orgasm?"
+    },
+    {
+      "id": 12,
+      "content": "When you masturbate, do you have sexual fantasies? If you do, would you be willing to tell me about some of them?"
+    },
+    {
+      "id": 13,
+      "content": "Do you enjoy masturbation? Is it different physically vs. psychologically?"
+    },
+    {
+      "id": 14,
+      "content": "What messages did you receive growing up about masturbation? How does it affect your view now?"
+    },
+    {
+      "id": 15,
+      "content": "How do you feel about me masturbating? Is it different alone vs. together?"
+    },
+    {
+      "id": 16,
+      "content": "How do you prefer to masturbate?"
+    },
+    {
+      "id": 17,
+      "content": "How is it for you to be talking to me now about masturbation?"
+    },
+    {
+      "id": 18,
+      "content": "What, for you, is the difference (if any) between making love and having sex?"
+    },
+    {
+      "id": 19,
+      "content": "How would you like us to communicate around our sexual needs when sexual contact begins?"
+    },
+    {
+      "id": 20,
+      "content": "Do you like to talk during sex? If so, what kinds of ways of talking or being talked to are appealing to you?"
+    },
+    {
+      "id": 21,
+      "content": "Do you get nervous about hurting my feelings or my ego when communicating about what you would like sexually?"
+    },
+    {
+      "id": 22,
+      "content": "Is it hard for you to ask for what you want when it comes to touch?"
+    },
+    {
+      "id": 23,
+      "content": "Do you ever feel that I push you to expand your sexual boundaries in a way that feels negative?"
+    },
+    {
+      "id": 24,
+      "content": "Are there times when you feel you need to hold yourself back sexually with me?"
+    },
+    {
+      "id": 25,
+      "content": "How can I help you to feel safer during intimacy with me?"
+    },
+    {
+      "id": 26,
+      "content": "Is there anything you would like to try sexually that we haven\u2019t talked about?"
+    },
+    {
+      "id": 27,
+      "content": "Do you think we have a difference in desire? How do you think we can handle that?"
+    },
+    {
+      "id": 28,
+      "content": "How do you like to communicate or show that you're in the mood for sex?"
+    },
+    {
+      "id": 29,
+      "content": "Do you ever feel pressured by me to have sex when you don\u2019t want to? If so, how can we handle that?"
+    },
+    {
+      "id": 30,
+      "content": "What would be ways you\u2019d like me to inquire about your desire for sex that might work well for you?"
+    },
+    {
+      "id": 31,
+      "content": "Do you ever want to have sex with me of any kind and feel I turn you down or reject you? If so, how can we handle that?"
+    },
+    {
+      "id": 32,
+      "content": "What would be a good way for us to initiate sex? Can we create a ritual?"
+    },
+    {
+      "id": 33,
+      "content": "When I initiate sex, how do you usually feel?"
+    },
+    {
+      "id": 34,
+      "content": "When you initiate sex, how do you usually feel?"
+    },
+    {
+      "id": 35,
+      "content": "How can I let you know that I am not in the mood for sexual activity without it feeling like I am rejecting you?"
+    },
+    {
+      "id": 36,
+      "content": "What do you like most about your body?"
+    },
+    {
+      "id": 37,
+      "content": "Are there things I do that help you feel good about your body? Anything else I could do?"
+    },
+    {
+      "id": 38,
+      "content": "Are there things I do that make you feel bad about your body? What can I do differently?"
+    },
+    {
+      "id": 39,
+      "content": "What do you consider foreplay? What turns you on?"
+    },
+    {
+      "id": 40,
+      "content": "What parts of foreplay do you like the best?"
+    },
+    {
+      "id": 41,
+      "content": "What parts of foreplay do you like least? What would you like me to do differently?"
+    },
+    {
+      "id": 42,
+      "content": "Are there any parts of your body where you\u2019d like me to focus more attention?"
+    },
+    {
+      "id": 43,
+      "content": "Does it ever feel like there is an expectation that any touch leads to sex?"
+    },
+    {
+      "id": 44,
+      "content": "What role do feelings play in your experience of sex?"
+    },
+    {
+      "id": 45,
+      "content": "Some partners want sex to feel close, but others only want sex when they already feel close. Does that fit us in any way?"
+    },
+    {
+      "id": 46,
+      "content": "What would make sex more romantic and passionate for you?"
+    },
+    {
+      "id": 47,
+      "content": "What were some of the best, most romantic times for you between us?"
+    },
+    {
+      "id": 48,
+      "content": "What are your feelings about manual stimulation? Giving and receiving?"
+    },
+    {
+      "id": 49,
+      "content": "What kinds of touch do you really enjoy?"
+    },
+    {
+      "id": 50,
+      "content": "Would it help if I asked you, \u201cWhat do you want and need?"
+    },
+    {
+      "id": 51,
+      "content": "How do you feel about receiving oral sex?"
+    },
+    {
+      "id": 52,
+      "content": "How do you feel about giving oral sex?"
+    },
+    {
+      "id": 53,
+      "content": "Do you enjoy having orgasms during oral sex?"
+    },
+    {
+      "id": 54,
+      "content": "How do you feel about the 69 position?"
+    },
+    {
+      "id": 55,
+      "content": "How do you feel about using sex toys?"
+    },
+    {
+      "id": 56,
+      "content": "How do you feel about role play and/or costumes?"
+    },
+    {
+      "id": 57,
+      "content": "How do you feel about restraints like scarves or handcuffs?"
+    },
+    {
+      "id": 58,
+      "content": "What sexual fantasies do you enjoy?"
+    },
+    {
+      "id": 59,
+      "content": "What are your feelings about anal sex/stimulation? Giving and receiving it?"
+    },
+    {
+      "id": 60,
+      "content": "How do you feel about watching pornography? Is it different alone vs. together?"
+    },
+    {
+      "id": 61,
+      "content": "Do you feel like watching pornography has any influence on our sex life?"
+    },
+    {
+      "id": 62,
+      "content": "What messages were you given about pornography? How has that informed your view today?"
+    }
+  ]
+},
+{
+  "id": 14,
+  "title": "Date Questions",
+  "description": "We all need fun things to talk about on dates. Whether it's your first date or you've been dating for years, use these questions to spark a conversation and deepen your connection.",
+  "instructions": "Take turns asking each other questions. Use for a date night out, a car ride or a special night in. Remember to be curious and tune into your partner.",
+  
+  "cards": [
+    {
+      "id": 1,
+      "content": "If you could jump on a plane tomorrow, where would you go?"
+    },
+    {
+      "id": 2,
+      "content": "Do you have a sweet tooth or a savory tooth?"
+    },
+    {
+      "id": 3,
+      "content": "What did you like most about the place you grew up? What about it did you like least?"
+    },
+    {
+      "id": 4,
+      "content": "What is something small that really makes your day?"
+    },
+    {
+      "id": 5,
+      "content": "If you could only keep one book you currently own, what would it be?"
+    },
+    {
+      "id": 6,
+      "content": "If you were on a desert island and got to bring one non-essential item, what would it be?"
+    },
+    {
+      "id": 7,
+      "content": "What would your perfect vacation look like?"
+    },
+    {
+      "id": 8,
+      "content": "What do you like to do in your free time?"
+    },
+    {
+      "id": 9,
+      "content": "What\u2019s your favorite part about your job?"
+    },
+    {
+      "id": 10,
+      "content": "Describe your ideal morning?"
+    },
+    {
+      "id": 11,
+      "content": "What is your favorite season?"
+    },
+    {
+      "id": 12,
+      "content": "Describe your perfect sandwich."
+    },
+    {
+      "id": 13,
+      "content": "Tell me about the first birthday you remember."
+    },
+    {
+      "id": 14,
+      "content": "What\u2019s your favorite way to be creative?"
+    },
+    {
+      "id": 15,
+      "content": "What would you do if you won $100,000?"
+    },
+    {
+      "id": 16,
+      "content": "What toys did you like playing with as a kid?"
+    },
+    {
+      "id": 17,
+      "content": "When you were a kid, do you remember what you liked to do?"
+    },
+    {
+      "id": 18,
+      "content": "If you had a superpower, what would it be?"
+    },
+    {
+      "id": 19,
+      "content": "What was one of your favorite books growing up?"
+    },
+    {
+      "id": 20,
+      "content": "What\u2019s your favorite holiday? What do you like about it?"
+    },
+    {
+      "id": 21,
+      "content": "What household chore do you think is the worst?"
+    },
+    {
+      "id": 22,
+      "content": "If you were writing a book, what would the title be?"
+    },
+    {
+      "id": 23,
+      "content": "When you\u2019re feeling lazy, what\u2019s your guilty pleasure Netflix show?"
+    },
+    {
+      "id": 24,
+      "content": "Do you have a movie you\u2019ve watched so many times you know the words? Which one?"
+    },
+    {
+      "id": 25,
+      "content": "What\u2019s your favorite thing you own?"
+    },
+    {
+      "id": 26,
+      "content": "How do you think you\u2019ve changed from when you were in high school?"
+    },
+    {
+      "id": 27,
+      "content": "If you could eat only five things for the rest of your life, what would they be?"
+    },
+    {
+      "id": 28,
+      "content": "What TV series do you keep coming back to and re-watching?"
+    },
+    {
+      "id": 29,
+      "content": "What\u2019s a hobby you\u2019ve always wanted to get into but haven\u2019t yet?"
+    },
+    {
+      "id": 30,
+      "content": "What\u2019s the best present you\u2019ve ever received?"
+    },
+    {
+      "id": 31,
+      "content": "What TV shows did you love watching as a kid?"
+    },
+    {
+      "id": 32,
+      "content": "What\u2019s your favorite ice cream flavor?"
+    },
+    {
+      "id": 33,
+      "content": "What\u2019s a \u201cnightmare\u201d breakfast for you?"
+    },
+    {
+      "id": 34,
+      "content": "What are you most excited about lately?"
+    },
+    {
+      "id": 35,
+      "content": "Do you have any passion projects you\u2019re working on?"
+    },
+    {
+      "id": 36,
+      "content": "What do you like to do when you\u2019re on vacation?"
+    },
+    {
+      "id": 37,
+      "content": "What is the one of the nicest compliments someone has ever given you?"
+    },
+    {
+      "id": 38,
+      "content": "What is something you like to splurge on?"
+    },
+    {
+      "id": 39,
+      "content": "Describe your dream house."
+    },
+    {
+      "id": 40,
+      "content": "What is something you\u2019ve always wanted to do but have been too scared to?"
+    },
+    {
+      "id": 41,
+      "content": "What\u2019s something you are proud of?"
+    },
+    {
+      "id": 42,
+      "content": "What\u2019s something you want to learn?"
+    },
+    {
+      "id": 43,
+      "content": "What was one of your highlights last year?"
+    },
+    {
+      "id": 44,
+      "content": "Would you rather live in a camper van or on a sailboat for the next year?"
+    },
+    {
+      "id": 45,
+      "content": "What\u2019s something small that always brightens your day?"
+    },
+    {
+      "id": 46,
+      "content": "What are your favorite things to do on the weekend?"
+    },
+    {
+      "id": 47,
+      "content": "If you could choose one new habit, what would it be?"
+    },
+    {
+      "id": 48,
+      "content": "Do you have any brands that you\u2019re loyal to?"
+    }
+  ]
+},
+{
+  "id": 7,
+  "title": "Give Appreciation",
+
+  "description": "The more couples look for positive 'little things' in their relationship and acknowledge them, the more they admire and trust each other.",
+  "instructions": "Build fondness and admiration by using these simple phrases as examples of things to thank your partner for. Or just scroll through and show your partner the screen if it\u2019s hard for you to express yourself out loud!",
+  
+  "cards": [
+    {
+      "id": 1,
+      "content": "Thanks for doing the dishes."
+    },
+    {
+      "id": 2,
+      "content": "Thanks for making dinner. It was delicious."
+    },
+    {
+      "id": 3,
+      "content": "Thanks for cleaning up the kitchen."
+    },
+    {
+      "id": 4,
+      "content": "Thanks for doing the laundry."
+    },
+    {
+      "id": 5,
+      "content": "Thanks for supporting me when I talked about my [fill in the blank]."
+    },
+    {
+      "id": 6,
+      "content": "Thanks for taking care of the kids."
+    },
+    {
+      "id": 7,
+      "content": "Thanks for being such a great dad. [Give specifics]"
+    },
+    {
+      "id": 8,
+      "content": "Thanks for being such a great mom. [Give specifics]"
+    },
+    {
+      "id": 9,
+      "content": "I really appreciated your giving me a hug."
+    },
+    {
+      "id": 10,
+      "content": "Thanks for listening to how my day went."
+    },
+    {
+      "id": 11,
+      "content": "I really appreciated you being so affectionate lately. [Give specifics]"
+    },
+    {
+      "id": 12,
+      "content": "I really enjoyed the conversation at dinner."
+    },
+    {
+      "id": 13,
+      "content": "Taking a walk together was really nice."
+    },
+    {
+      "id": 14,
+      "content": "Thanks for being understanding when I talked about that difficult person I met."
+    },
+    {
+      "id": 15,
+      "content": "I enjoyed making love to you."
+    },
+    {
+      "id": 16,
+      "content": "I want to thank you for the card and the great words on it."
+    },
+    {
+      "id": 17,
+      "content": "Thanks for bringing me flowers."
+    },
+    {
+      "id": 18,
+      "content": "That gift was terrific."
+    },
+    {
+      "id": 19,
+      "content": "You look great in that."
+    },
+    {
+      "id": 20,
+      "content": "Thanks for spending time with me."
+    },
+    {
+      "id": 21,
+      "content": "Thank you for caring about what I need."
+    },
+    {
+      "id": 22,
+      "content": "That is a fantastic color on you."
+    },
+    {
+      "id": 23,
+      "content": "Thanks for spending time with me. [Give specifics of what you did]"
+    },
+    {
+      "id": 24,
+      "content": "Thanks for making me feel like I come first in your life."
+    },
+    {
+      "id": 25,
+      "content": "I am really proud of you. [Give specifics]"
+    },
+    {
+      "id": 26,
+      "content": "I have so much respect for you. [Give specifics]"
+    },
+    {
+      "id": 27,
+      "content": "It matters to me a lot when you are so great with the kids. [Give specifics]"
+    },
+    {
+      "id": 28,
+      "content": "The way you treat my family means a lot to me. [Give specifics]"
+    },
+    {
+      "id": 29,
+      "content": "Thanks for putting on music that I love."
+    },
+    {
+      "id": 30,
+      "content": "Thanks for putting up with [fill in the blank with an obnoxious friend or relative\u2019s name]."
+    },
+    {
+      "id": 31,
+      "content": "Thank you for desiring me."
+    },
+    {
+      "id": 32,
+      "content": "Thanks for calling my mother."
+    },
+    {
+      "id": 33,
+      "content": "Thank you for just being there when I felt sad."
+    },
+    {
+      "id": 34,
+      "content": "Thanks for all the driving you are doing."
+    },
+    {
+      "id": 35,
+      "content": "You taste delicious."
+    },
+    {
+      "id": 36,
+      "content": "Thank you for listening to me."
+    },
+    {
+      "id": 37,
+      "content": "Thanks for calling the plumber (electrician, handyman, carpenter, gardener, etc.)"
+    },
+    {
+      "id": 38,
+      "content": "Thank you for taking me out to dinner. That was great."
+    },
+    {
+      "id": 39,
+      "content": "Thanks for taking a bath with me."
+    },
+    {
+      "id": 40,
+      "content": "Thank you for comforting me."
+    },
+    {
+      "id": 41,
+      "content": "I had fun at the party. Thank you for being with me."
+    },
+    {
+      "id": 42,
+      "content": "Thank you for being empathetic with me."
+    },
+    {
+      "id": 43,
+      "content": "Thanks for taking the kids to the pediatrician."
+    },
+    {
+      "id": 44,
+      "content": "Thanks for lighting candles."
+    },
+    {
+      "id": 45,
+      "content": "Thank you for being gentle with me."
+    },
+    {
+      "id": 46,
+      "content": "Thank you for being on my side."
+    },
+    {
+      "id": 47,
+      "content": "Thank you for inviting our friends over."
+    },
+    {
+      "id": 48,
+      "content": "Thank you for laughter."
+    },
+    {
+      "id": 49,
+      "content": "Thank you for telling me what you need."
+    },
+    {
+      "id": 50,
+      "content": "You are a great kisser."
+    },
+    {
+      "id": 51,
+      "content": "Thanks for spending time with the kids."
+    },
+    {
+      "id": 52,
+      "content": "Thanks for saving money for us."
+    },
+    {
+      "id": 53,
+      "content": "It was fun playing cards. Thank you."
+    },
+    {
+      "id": 54,
+      "content": "Thank you for last weekend."
+    },
+    {
+      "id": 55,
+      "content": "Thank you for holding me."
+    },
+    {
+      "id": 56,
+      "content": "I loved the picnic we had."
+    },
+    {
+      "id": 57,
+      "content": "Thanks for taking care of me when I was sick."
+    },
+    {
+      "id": 58,
+      "content": "Thanks for giving me some time to myself."
+    },
+    {
+      "id": 59,
+      "content": "I really appreciate that drive we took."
+    },
+    {
+      "id": 60,
+      "content": "Thanks for taking over the chores. [Give specifics]"
+    },
+    {
+      "id": 61,
+      "content": "I really appreciate how great you look tonight as we get ready for bed."
+    },
+    {
+      "id": 62,
+      "content": "I can hardly take my hands off you."
+    },
+    {
+      "id": 63,
+      "content": "Thank you for greeting me so warmly when I come home."
+    },
+    {
+      "id": 64,
+      "content": "Thanks for making our home so beautiful."
+    },
+    {
+      "id": 65,
+      "content": "Thanks for making coffee for me."
+    },
+    {
+      "id": 66,
+      "content": "Thank you for telling me how you feel."
+    },
+    {
+      "id": 67,
+      "content": "You smell so good."
+    },
+    {
+      "id": 68,
+      "content": "Thank you for loving me."
+    },
+    {
+      "id": 69,
+      "content": "Thanks for spending time with my family."
+    },
+    {
+      "id": 70,
+      "content": "I love touching you here. [Give more detail]"
+    },
+    {
+      "id": 71,
+      "content": "I appreciate what a loyal partner you are."
+    },
+    {
+      "id": 72,
+      "content": "Thanks for sticking up for me when I got criticized. [Give more detail]"
+    },
+    {
+      "id": 73,
+      "content": "Thanks for the way you handled that teacher conference."
+    },
+    {
+      "id": 74,
+      "content": "Those pastries were delicious. Thanks for getting them."
+    },
+    {
+      "id": 75,
+      "content": "Thanks for calling the doctor when I needed an appointment."
+    },
+    {
+      "id": 76,
+      "content": "Thanks for the way you are paying the bills."
+    }
+  ]
+},
+{
+  "id": 8,
+  "title": "I Feel ...",
+
+  "description": "One way to know each other better is to be honest and open about your feelings \u2013 both pleasant and not so pleasant ones.",
+  "instructions": "Swipe through the many feelings in this deck and find several that describe how you are feeling right now. Show or tell them to your partner. If the feelings are difficult, be gentle when you express them. Your partner should just listen and not try to fix anything. Then reverse roles as speaker and listener. You can try to solve the problem later. Right now, this exercise is just for understanding each other better.",
+  
+  "cards": [
+    {
+      "id": 1,
+      "content": "I feel afraid"
+    },
+    {
+      "id": 2,
+      "content": "I feel agitated"
+    },
+    {
+      "id": 3,
+      "content": "I feel alarmed"
+    },
+    {
+      "id": 4,
+      "content": "I feel ambivalent"
+    },
+    {
+      "id": 5,
+      "content": "I feel amused"
+    },
+    {
+      "id": 6,
+      "content": "I feel angry"
+    },
+    {
+      "id": 7,
+      "content": "I feel anguished"
+    },
+    {
+      "id": 8,
+      "content": "I feel apprehensive"
+    },
+    {
+      "id": 9,
+      "content": "I feel ashamed"
+    },
+    {
+      "id": 10,
+      "content": "I feel astounded"
+    },
+    {
+      "id": 11,
+      "content": "I feel baffled"
+    },
+    {
+      "id": 12,
+      "content": "I feel bewildered"
+    },
+    {
+      "id": 13,
+      "content": "I feel bitter"
+    },
+    {
+      "id": 14,
+      "content": "I feel confused"
+    },
+    {
+      "id": 15,
+      "content": "I feel compassionate"
+    },
+    {
+      "id": 16,
+      "content": "I feel crushed"
+    },
+    {
+      "id": 17,
+      "content": "I feel delighted"
+    },
+    {
+      "id": 18,
+      "content": "I feel desperate"
+    },
+    {
+      "id": 19,
+      "content": "I feel displeased"
+    },
+    {
+      "id": 20,
+      "content": "I feel distrustful"
+    },
+    {
+      "id": 21,
+      "content": "I feel eager"
+    },
+    {
+      "id": 22,
+      "content": "I feel ecstatic"
+    },
+    {
+      "id": 23,
+      "content": "I feel enraged"
+    },
+    {
+      "id": 24,
+      "content": "I feel excited"
+    },
+    {
+      "id": 25,
+      "content": "I feel grief"
+    },
+    {
+      "id": 26,
+      "content": "I feel flattered"
+    },
+    {
+      "id": 27,
+      "content": "I feel frantic"
+    },
+    {
+      "id": 28,
+      "content": "I feel frazzled"
+    },
+    {
+      "id": 29,
+      "content": "I feel frustrated"
+    },
+    {
+      "id": 30,
+      "content": "I feel furious"
+    },
+    {
+      "id": 31,
+      "content": "I feel grateful"
+    },
+    {
+      "id": 32,
+      "content": "I feel happy"
+    },
+    {
+      "id": 33,
+      "content": "I feel honored"
+    },
+    {
+      "id": 34,
+      "content": "I feel horny"
+    },
+    {
+      "id": 35,
+      "content": "I feel hurt"
+    },
+    {
+      "id": 36,
+      "content": "I feel impressed"
+    },
+    {
+      "id": 37,
+      "content": "I feel love"
+    },
+    {
+      "id": 38,
+      "content": "I feel miffed"
+    },
+    {
+      "id": 39,
+      "content": "I am not sure how I feel"
+    },
+    {
+      "id": 40,
+      "content": "I feel outraged"
+    },
+    {
+      "id": 41,
+      "content": "I feel pleased"
+    },
+    {
+      "id": 42,
+      "content": "I feel shocked"
+    },
+    {
+      "id": 43,
+      "content": "I feel stressed"
+    },
+    {
+      "id": 44,
+      "content": "I feel surprised"
+    },
+    {
+      "id": 45,
+      "content": "I feel tense"
+    },
+    {
+      "id": 46,
+      "content": "I feel upset"
+    },
+    {
+      "id": 47,
+      "content": "I feel weary"
+    },
+    {
+      "id": 48,
+      "content": "I feel worried"
+    },
+    {
+      "id": 49,
+      "content": "I feel unaccepted"
+    },
+    {
+      "id": 50,
+      "content": "I feel abandoned"
+    },
+    {
+      "id": 51,
+      "content": "I feel accepted"
+    },
+    {
+      "id": 52,
+      "content": "I feel affectionate"
+    },
+    {
+      "id": 53,
+      "content": "I feel alienated"
+    },
+    {
+      "id": 54,
+      "content": "I feel alone"
+    },
+    {
+      "id": 55,
+      "content": "I feel appreciated"
+    },
+    {
+      "id": 56,
+      "content": "I feel awe"
+    },
+    {
+      "id": 57,
+      "content": "I feel bashful"
+    },
+    {
+      "id": 58,
+      "content": "I feel battered"
+    },
+    {
+      "id": 59,
+      "content": "I feel beautiful"
+    },
+    {
+      "id": 60,
+      "content": "I feel belittled"
+    },
+    {
+      "id": 61,
+      "content": "I feel betrayed"
+    },
+    {
+      "id": 62,
+      "content": "I feel cheated"
+    },
+    {
+      "id": 63,
+      "content": "I feel cheerful"
+    },
+    {
+      "id": 64,
+      "content": "I feel close to you"
+    },
+    {
+      "id": 65,
+      "content": "I feel clumsy, awkward"
+    },
+    {
+      "id": 66,
+      "content": "I feel comfortable"
+    },
+    {
+      "id": 67,
+      "content": "I feel competitive"
+    },
+    {
+      "id": 68,
+      "content": "I feel condemned"
+    },
+    {
+      "id": 69,
+      "content": "I feel confident"
+    },
+    {
+      "id": 70,
+      "content": "I feel conflicted"
+    },
+    {
+      "id": 71,
+      "content": "I feel confused"
+    },
+    {
+      "id": 72,
+      "content": "I feel constrained"
+    },
+    {
+      "id": 73,
+      "content": "I feel critical"
+    },
+    {
+      "id": 74,
+      "content": "I feel criticized"
+    },
+    {
+      "id": 75,
+      "content": "I feel defeated"
+    },
+    {
+      "id": 76,
+      "content": "I feel disgraced"
+    },
+    {
+      "id": 77,
+      "content": "I feel disgusted"
+    },
+    {
+      "id": 78,
+      "content": "I feel distant from you"
+    },
+    {
+      "id": 79,
+      "content": "I feel downhearted"
+    },
+    {
+      "id": 80,
+      "content": "I feel dread"
+    },
+    {
+      "id": 81,
+      "content": "I feel embarrassed"
+    },
+    {
+      "id": 82,
+      "content": "I feel empathy"
+    },
+    {
+      "id": 83,
+      "content": "I feel empty"
+    },
+    {
+      "id": 84,
+      "content": "I feel envious"
+    },
+    {
+      "id": 85,
+      "content": "I feel excluded"
+    },
+    {
+      "id": 86,
+      "content": "I feel exposed"
+    },
+    {
+      "id": 87,
+      "content": "I feel fat"
+    },
+    {
+      "id": 88,
+      "content": "I feel fit"
+    },
+    {
+      "id": 89,
+      "content": "I feel flustered"
+    },
+    {
+      "id": 90,
+      "content": "I feel foolish"
+    },
+    {
+      "id": 91,
+      "content": "I feel forsaken"
+    },
+    {
+      "id": 92,
+      "content": "I feel generous"
+    },
+    {
+      "id": 93,
+      "content": "I feel handsome"
+    },
+    {
+      "id": 94,
+      "content": "I feel hate"
+    },
+    {
+      "id": 95,
+      "content": "I feel heartless"
+    },
+    {
+      "id": 96,
+      "content": "I feel humble"
+    },
+    {
+      "id": 97,
+      "content": "I feel hysterical"
+    },
+    {
+      "id": 98,
+      "content": "I feel impatient"
+    },
+    {
+      "id": 99,
+      "content": "I feel inadequate"
+    },
+    {
+      "id": 100,
+      "content": "I feel incompetent"
+    },
+    {
+      "id": 101,
+      "content": "I feel indecisive"
+    },
+    {
+      "id": 102,
+      "content": "I feel indifferent"
+    },
+    {
+      "id": 103,
+      "content": "I feel inept"
+    },
+    {
+      "id": 104,
+      "content": "I feel insecure"
+    },
+    {
+      "id": 105,
+      "content": "I feel inspired"
+    },
+    {
+      "id": 106,
+      "content": "I feel insulted"
+    },
+    {
+      "id": 107,
+      "content": "I feel intimidated"
+    },
+    {
+      "id": 108,
+      "content": "I feel invaded"
+    },
+    {
+      "id": 109,
+      "content": "I feel irrelevant"
+    },
+    {
+      "id": 110,
+      "content": "I feel irritable"
+    },
+    {
+      "id": 111,
+      "content": "I feel jealous"
+    },
+    {
+      "id": 112,
+      "content": "I feel jittery"
+    },
+    {
+      "id": 113,
+      "content": "I feel judged"
+    },
+    {
+      "id": 114,
+      "content": "I feel jumpy"
+    },
+    {
+      "id": 115,
+      "content": "I feel like a failure"
+    },
+    {
+      "id": 116,
+      "content": "I feel like an idiot"
+    },
+    {
+      "id": 117,
+      "content": "I feel like an innocent victim"
+    },
+    {
+      "id": 118,
+      "content": "I feel like apologizing"
+    },
+    {
+      "id": 119,
+      "content": "I feel like arguing"
+    },
+    {
+      "id": 120,
+      "content": "I feel like being cruel"
+    },
+    {
+      "id": 121,
+      "content": "I feel like being hostile"
+    },
+    {
+      "id": 122,
+      "content": "I feel like being totally logical"
+    },
+    {
+      "id": 123,
+      "content": "I feel like boasting"
+    },
+    {
+      "id": 124,
+      "content": "I feel like bragging"
+    },
+    {
+      "id": 125,
+      "content": "I feel liked"
+    },
+    {
+      "id": 126,
+      "content": "I feel like giving up"
+    },
+    {
+      "id": 127,
+      "content": "I feel like hitting something"
+    },
+    {
+      "id": 128,
+      "content": "I feel like hurting someone"
+    },
+    {
+      "id": 129,
+      "content": "I feel like kicking something"
+    },
+    {
+      "id": 130,
+      "content": "I feel like throwing up"
+    },
+    {
+      "id": 131,
+      "content": "I feel like you dislike me"
+    },
+    {
+      "id": 132,
+      "content": "I feel like you don\u2019t even like me"
+    },
+    {
+      "id": 133,
+      "content": "I feel lonely"
+    },
+    {
+      "id": 134,
+      "content": "I feel lucky"
+    },
+    {
+      "id": 135,
+      "content": "I feel lustful"
+    },
+    {
+      "id": 136,
+      "content": "I feel masterful"
+    },
+    {
+      "id": 137,
+      "content": "I feel mean"
+    },
+    {
+      "id": 138,
+      "content": "I feel melancholy"
+    },
+    {
+      "id": 139,
+      "content": "I feel mellow"
+    },
+    {
+      "id": 140,
+      "content": "I feel mischievous"
+    },
+    {
+      "id": 141,
+      "content": "I feel mistreated"
+    },
+    {
+      "id": 142,
+      "content": "I feel needed"
+    },
+    {
+      "id": 143,
+      "content": "I feel needy"
+    },
+    {
+      "id": 144,
+      "content": "I feel neglected"
+    },
+    {
+      "id": 145,
+      "content": "I feel nostalgic"
+    },
+    {
+      "id": 146,
+      "content": "I feel numb"
+    },
+    {
+      "id": 147,
+      "content": "I feel on edge"
+    },
+    {
+      "id": 148,
+      "content": "I feel panicked"
+    },
+    {
+      "id": 149,
+      "content": "I feel peaceful"
+    },
+    {
+      "id": 150,
+      "content": "I feel perplexed"
+    },
+    {
+      "id": 151,
+      "content": "I feel pessimistic"
+    },
+    {
+      "id": 152,
+      "content": "I feel playful"
+    },
+    {
+      "id": 153,
+      "content": "I feel possessive"
+    },
+    {
+      "id": 154,
+      "content": "I feel protective"
+    },
+    {
+      "id": 155,
+      "content": "I feel put down"
+    },
+    {
+      "id": 156,
+      "content": "I feel regretful"
+    },
+    {
+      "id": 157,
+      "content": "I feel rejected"
+    },
+    {
+      "id": 158,
+      "content": "I feel relaxed"
+    },
+    {
+      "id": 159,
+      "content": "I feel resentful"
+    },
+    {
+      "id": 160,
+      "content": "I feel respectful"
+    },
+    {
+      "id": 161,
+      "content": "I feel reverent"
+    },
+    {
+      "id": 162,
+      "content": "I feel ridiculous"
+    },
+    {
+      "id": 163,
+      "content": "I feel righteously indignant"
+    },
+    {
+      "id": 164,
+      "content": "I feel romantic"
+    },
+    {
+      "id": 165,
+      "content": "I feel sad"
+    },
+    {
+      "id": 166,
+      "content": "I feel scolded"
+    },
+    {
+      "id": 167,
+      "content": "I feel sexual desire"
+    },
+    {
+      "id": 168,
+      "content": "I feel sexy"
+    },
+    {
+      "id": 169,
+      "content": "I feel shy"
+    },
+    {
+      "id": 170,
+      "content": "I feel sick"
+    },
+    {
+      "id": 171,
+      "content": "I feel silly"
+    },
+    {
+      "id": 172,
+      "content": "I feel smothered"
+    },
+    {
+      "id": 173,
+      "content": "I feel spiteful"
+    },
+    {
+      "id": 174,
+      "content": "I feel stingy"
+    },
+    {
+      "id": 175,
+      "content": "I feel stubborn"
+    },
+    {
+      "id": 176,
+      "content": "I feel stupid"
+    },
+    {
+      "id": 177,
+      "content": "I feel superior"
+    },
+    {
+      "id": 178,
+      "content": "I feel tearful"
+    },
+    {
+      "id": 179,
+      "content": "I feel tense"
+    },
+    {
+      "id": 180,
+      "content": "I feel thankful"
+    },
+    {
+      "id": 181,
+      "content": "I feel thrilled"
+    },
+    {
+      "id": 182,
+      "content": "I feel tortured"
+    },
+    {
+      "id": 183,
+      "content": "I feel trapped"
+    },
+    {
+      "id": 184,
+      "content": "I feel unappreciated"
+    },
+    {
+      "id": 185,
+      "content": "I feel unattractive"
+    },
+    {
+      "id": 186,
+      "content": "I feel uncomfortable"
+    },
+    {
+      "id": 187,
+      "content": "I feel undecided"
+    },
+    {
+      "id": 188,
+      "content": "I feel understood"
+    },
+    {
+      "id": 189,
+      "content": "I feel unimportant to you"
+    },
+    {
+      "id": 190,
+      "content": "I feel used"
+    },
+    {
+      "id": 191,
+      "content": "I feel vulnerable"
+    },
+    {
+      "id": 192,
+      "content": "I feel whimsical"
+    },
+    {
+      "id": 193,
+      "content": "I feel wounded"
+    },
+    {
+      "id": 194,
+      "content": "I feel no sexual desire at all"
+    },
+    {
+      "id": 195,
+      "content": "I feel like my talents aren\u2019t being recognized"
+    }
+  ]
+},
+{
+  "id": 9,
+  "title": "Salsa (Mild)",
+    "description": "Looking to spice up your sex life? This Mild (1 pepper) deck is for couples who prefer romantic, but non-sexual suggestions. ",
+  "instructions": "Swipe through the deck and select a suggestion you\u2019d like to share with your partner. If you both like the suggestion, plan how you can integrate it into your relationship. If one of you doesn\u2019t like the suggestion, pick another card. No judgement, blame, or harshness.",
+
+  "cards": [
+    {
+      "id": 1,
+      "content": "Turn off your phone for an evening and spend some quality time together."
+    },
+    {
+      "id": 2,
+      "content": "Write a short love letter for your partner."
+    },
+    {
+      "id": 3,
+      "content": "Bring home a small gift for your partner to show them you were thinking of them."
+    },
+    {
+      "id": 4,
+      "content": "Listen to music together and take turns playing your favorite songs."
+    },
+    {
+      "id": 5,
+      "content": "Watch a movie at home together and cuddle on the couch."
+    },
+    {
+      "id": 6,
+      "content": "Turn in to when your partner needs emotional support. Take time to listen and be empathetic."
+    },
+    {
+      "id": 7,
+      "content": "Go out to the movies, hold hands, and kiss in the back of the theater."
+    },
+    {
+      "id": 8,
+      "content": "Before leaving for the day, learn what\u2019s going on in your partner\u2019s day and ask about it later."
+    },
+    {
+      "id": 37,
+      "content": "Before leaving for the day, share a romantic kiss."
+    },
+    {
+      "id": 9,
+      "content": "Catch your partner doing something meaningful or helpful and express appreciation."
+    },
+    {
+      "id": 10,
+      "content": "Make it possible for your partner to take a day off to relax, take a bath or get a massage."
+    },
+    {
+      "id": 11,
+      "content": "Talk about what kind of affectionate touch feels good to both of you."
+    },
+    {
+      "id": 13,
+      "content": "Sit facing one another and look into each other\u2019s eyes."
+    },
+    {
+      "id": 14,
+      "content": "Take turns giving each other a neck or back massage."
+    },
+    {
+      "id": 15,
+      "content": "Tell your partner something you love about them."
+    },
+    {
+      "id": 16,
+      "content": "Dress up and go on a romantic date, just the two of you."
+    },
+    {
+      "id": 18,
+      "content": "Give each other a foot massage."
+    },
+    {
+      "id": 19,
+      "content": "Tell your partner something you love about their face."
+    },
+    {
+      "id": 20,
+      "content": "Take a dance class together or go out dancing."
+    },
+    {
+      "id": 22,
+      "content": "Go for a walk together and hold hands."
+    },
+    {
+      "id": 23,
+      "content": "Set up a blanket in your living room and have an indoor picnic."
+    },
+    {
+      "id": 38,
+      "content": "Make a fort in your living room like when you were kids."
+    },
+    {
+      "id": 24,
+      "content": "Light candles in your bedroom and spend time cuddling and talking."
+    },
+    {
+      "id": 25,
+      "content": "Stay at a hotel for a night and go in the hot tub together."
+    },
+    {
+      "id": 26,
+      "content": "Bring home your partner\u2019s favorite dessert and enjoy it together."
+    },
+    {
+      "id": 27,
+      "content": "Dress up in an outfit you feel sexy in."
+    },
+    {
+      "id": 28,
+      "content": "Surprise your partner with breakfast in bed one morning. Spend some time in bed together, just chatting."
+    },
+    {
+      "id": 29,
+      "content": "Bring your partner flowers."
+    },
+    {
+      "id": 31,
+      "content": "Make out passionately with your partner. Tell your partner what feels good to you."
+    },
+    {
+      "id": 32,
+      "content": "Book an Airbnb for a night for a romantic cabin getaway."
+    },
+    {
+      "id": 33,
+      "content": "Go to your partner\u2019s work and surprise them with a romantic lunch."
+    },
+    {
+      "id": 34,
+      "content": "Plan a fun date where both of you try something new (ex. kayaking, trapeze, pottery, explore a new town)."
+    },
+    {
+      "id": 35,
+      "content": "Wrap your arms around your partner and tell them how attractive you find them."
+    },
+    {
+      "id": 39,
+      "content": "Reenact your first date."
+    },
+    {
+      "id": 40,
+      "content": "Give your partner a sexy compliment."
+    },
+    {
+      "id": 41,
+      "content": "Go out dancing and enjoy touching each other on the dance floor."
+    },
+    {
+      "id": 42,
+      "content": "Share a long hug that includes breathing and relaxing together."
+    },
+    {
+      "id": 43,
+      "content": "Take 10 minutes to express gratitude and appreciation to each other."
+    },
+    {
+      "id": 44,
+      "content": "Draw letters and numbers on your partner\u2019s back. Take turns, and give feedback about how it feels to you."
+    },
+    {
+      "id": 45,
+      "content": "Softly touch your blindfolded partner with objects that are likely to feel pleasurable to them. Switch roles."
+    },
+    {
+      "id": 46,
+      "content": "Prepare a surprise dish, then feed your partner while they are blindfolded. Switch roles."
+    },
+    {
+      "id": 47,
+      "content": "Tell your partner about one of the times you have felt most attracted to them."
+    }
+  ]
+},
+{
+  "id": 10,
+  "title": "Salsa (Medium)",
+    "description": "Looking to spice up your sex life? This Medium (2 pepper) deck is for couples who are comfortable with sexual intimacy.",
+  "instructions": "Swipe through the deck and select a suggestion you\u2019d like to share with your partner. If you both like the suggestion, plan how you can integrate it into your relationship. If one of you doesn\u2019t like the suggestion, pick another card. No judgement, blame, or harshness.",
+
+  "cards": [
+    {
+      "id": 2,
+      "content": "Explore a new sexual position you\u2019ve been wanting to try. Tell your partner how you liked it."
+    },
+    {
+      "id": 3,
+      "content": "Get a sexy costume and act out a sexual fantasy."
+    },
+    {
+      "id": 4,
+      "content": "Take turns massaging and kissing each other."
+    },
+    {
+      "id": 6,
+      "content": "Talk to your partner during sex."
+    },
+    {
+      "id": 39,
+      "content": "Experiment with talking dirty while having sex."
+    },
+    {
+      "id": 7,
+      "content": "Have sex somewhere adventurous like while camping, on a beach or in a car."
+    },
+    {
+      "id": 8,
+      "content": "Take turns initiating sex."
+    },
+    {
+      "id": 9,
+      "content": "Call in late to work and share a sexy morning together."
+    },
+    {
+      "id": 10,
+      "content": "Take a shower together and lather each other\u2019s bodies."
+    },
+    {
+      "id": 11,
+      "content": "Wear a sexy outfit and do a striptease for your partner."
+    },
+    {
+      "id": 12,
+      "content": "Get some body oil and give your partner a massage."
+    },
+    {
+      "id": 13,
+      "content": "Have a romantic evening together. Wear something sexy, turn on music and light candles."
+    },
+    {
+      "id": 14,
+      "content": "Have a quickie."
+    },
+    {
+      "id": 15,
+      "content": "Decide together on an evening of romance and foreplay that turns you both on."
+    },
+    {
+      "id": 16,
+      "content": "Talk about what you liked best about the last time you made love."
+    },
+    {
+      "id": 17,
+      "content": "During foreplay, take your partner\u2019s hand and show them what feels good to you."
+    },
+    {
+      "id": 18,
+      "content": "Spend an evening touching with the rule that there will be no intercourse, only pleasuring one another."
+    },
+    {
+      "id": 20,
+      "content": "Wake up early to make love, while the kids are still asleep."
+    },
+    {
+      "id": 21,
+      "content": "Write a sexy story starring you and your partner and read it aloud together."
+    },
+    {
+      "id": 23,
+      "content": "Make love in the shower together."
+    },
+    {
+      "id": 24,
+      "content": "Undress each other slowly, then make love."
+    },
+    {
+      "id": 25,
+      "content": "Experiment with tracing each other\u2019s bodies using an ice cube or a feather."
+    },
+    {
+      "id": 28,
+      "content": "Give your partner a full body massage, then make love."
+    },
+    {
+      "id": 29,
+      "content": "Go to a beautiful and private outdoor place and make love."
+    },
+    {
+      "id": 31,
+      "content": "Talk to each other about your favorite places on your body you like to be kissed."
+    },
+    {
+      "id": 32,
+      "content": "Read a sexy novel or story together in bed."
+    },
+    {
+      "id": 33,
+      "content": "Receive oral sex from your partner, and tell them what you like best."
+    },
+    {
+      "id": 34,
+      "content": "Meet up for a date using fake names and a story for the evening. Pretend like it's your first date."
+    },
+    {
+      "id": 35,
+      "content": "Reenact the romance of your honeymoon (ex. buy fresh leis and play tropical music)."
+    },
+    {
+      "id": 36,
+      "content": "Develop a secret code word for sex. Try a word like \u201cdessert\u201d or a phrase like \u201ctuck me in for bed\u201d."
+    },
+    {
+      "id": 37,
+      "content": "Take a bubble bath with your partner."
+    },
+    {
+      "id": 38,
+      "content": "Have a pillow fight in your underwear."
+    },
+    {
+      "id": 40,
+      "content": "Go without underwear and tell your partner."
+    },
+    {
+      "id": 41,
+      "content": "Take turns sharing a sexual fantasy with your partner."
+    },
+    {
+      "id": 42,
+      "content": "Sext your partner during the day."
+    },
+    {
+      "id": 43,
+      "content": "Strip down to your underwear and play a game of tag around the house."
+    },
+    {
+      "id": 44,
+      "content": "Initiate sex by saying \u201cMeet me upstairs?\u201d or \u201cWanna make out?\u201d"
+    },
+    {
+      "id": 45,
+      "content": "Read erotica together to give you some inspiration."
+    },
+    {
+      "id": 46,
+      "content": "Lick or bite your lips to seduce your partner outside of the bedroom."
+    },
+    {
+      "id": 47,
+      "content": "Tease each other by touching each other\u2019s bodies but keep your underwear on."
+    },
+    {
+      "id": 48,
+      "content": "Share which kinds of things you would like to hear from your partner during sex."
+    },
+    {
+      "id": 49,
+      "content": "Bake together wearing just an apron."
+    }
+  ]
+},
+{
+  "id": 11,
+  "title": "Salsa (Hot)",
+    "description": "Looking to spice up your sex life? This Hot (3 pepper) deck is for couples who want to explore more wild sexual fantasies.",
+  "instructions": "Swipe through the deck and select a suggestion you\u2019d like to share with your partner. If you both like the suggestion, plan how you can integrate it into your relationship. If one of you doesn\u2019t like the suggestion, pick another card. No judgement, blame, or harshness.",
+
+  "cards": [
+    {
+      "id": 2,
+      "content": "Decide together on a fantasy or role play to act out."
+    },
+    {
+      "id": 3,
+      "content": "Play a game of strip poker."
+    },
+    {
+      "id": 5,
+      "content": "Have oral sex in a room outside your bedroom."
+    },
+    {
+      "id": 6,
+      "content": "Think of a sexual fantasy and then call or text your partner at work and describe it to them."
+    },
+    {
+      "id": 7,
+      "content": "Masturbate thinking of your partner and then tell your partner about your fantasy."
+    },
+    {
+      "id": 8,
+      "content": "Spend the whole day together at home naked."
+    },
+    {
+      "id": 9,
+      "content": "Have phone or video sex with your partner the next time one of you is out of town."
+    },
+    {
+      "id": 11,
+      "content": "Spread whipped cream, chocolate sauce or honey on your partner\u2019s naked body and then lick it off."
+    },
+    {
+      "id": 12,
+      "content": "Help your partner masturbate."
+    },
+    {
+      "id": 13,
+      "content": "Play around with the 69 position. Explore what you both like."
+    },
+    {
+      "id": 14,
+      "content": "Play a game of twister naked."
+    },
+    {
+      "id": 16,
+      "content": "Visit a sex shop or website together and buy a toy that turns you both on."
+    },
+    {
+      "id": 17,
+      "content": "Create a sensual experience around eating food off each other."
+    },
+    {
+      "id": 20,
+      "content": "Go out on a date and have sex in the backseat of your car."
+    },
+    {
+      "id": 21,
+      "content": "Challenge yourselves to have sex in every room in your house."
+    },
+    {
+      "id": 22,
+      "content": "Act out a fairy tale and put a sexual spin on it."
+    },
+    {
+      "id": 23,
+      "content": "Challenge yourselves to see how many sexual positions you can try before reaching an orgasm."
+    },
+    {
+      "id": 25,
+      "content": "Spread paint on a large canvas and roll around naked, making love. Hang your sexy art in the house."
+    },
+    {
+      "id": 26,
+      "content": "Put a plastic sheet on the bed with body oil and make love."
+    },
+    {
+      "id": 28,
+      "content": "Make love in front of a large mirror."
+    },
+    {
+      "id": 30,
+      "content": "Do a sexy nude photo shoot of your partner in erotic positions."
+    },
+    {
+      "id": 31,
+      "content": "Take a vacation to a secluded place like a beach or lake and spend time naked."
+    },
+    {
+      "id": 33,
+      "content": "Explore different flavors and scents of lubricant."
+    },
+    {
+      "id": 34,
+      "content": "Strip off each other\u2019s clothes and make love standing up in a doorway or against a wall."
+    },
+    {
+      "id": 4,
+      "content": "Take turns being the dominant and submissive partner during sex."
+    },
+    {
+      "id": 38,
+      "content": "Blindfold your partner during sex."
+    },
+    {
+      "id": 39,
+      "content": "Re-enact your favorite movie sex scene."
+    },
+    {
+      "id": 40,
+      "content": "Decide together on using restraints like scarves to tie your partner\u2019s hand to the bed frame."
+    },
+    {
+      "id": 41,
+      "content": "Play a game of sexy truth or dare."
+    },
+    {
+      "id": 42,
+      "content": "Have sex in an adventurous place in nature (ex. off the trail from a hike)."
+    },
+    {
+      "id": 43,
+      "content": "Make love while camping under the open sky."
+    },
+    {
+      "id": 44,
+      "content": "Decide together on something you\u2019d like to do sexually that feels daring."
+    }
+  ]
+},
+{
+  "id": 12,
+  "title": "Expressing Needs",
+    "description": "Express your needs in a way that your partner will respond to and understand.",
+  "instructions": "The better you are at expressing what you need in positive, non-demanding ways, the more your partner can 'be there' for you and help you get what you want.\nIf there\u2019s something you\u2019ve been wanting to tell your partner lately but didn\u2019t know how, swipe through and find what you think you need in this moment. Then show it to your partner. Or better yet, tell them in a gentle, soft way.",
+
+  "cards": [
+    {
+      "id": 1,
+      "content": "I need you to initiate sex."
+    },
+    {
+      "id": 2,
+      "content": "I need to cuddle more."
+    },
+    {
+      "id": 3,
+      "content": "I need to know when you find me irresistible."
+    },
+    {
+      "id": 4,
+      "content": "I need to talk more about our kids."
+    },
+    {
+      "id": 5,
+      "content": "I need you to ask me about my hopes and aspirations."
+    },
+    {
+      "id": 6,
+      "content": "I need to have a conversation with you."
+    },
+    {
+      "id": 7,
+      "content": "I need to talk to you about my day."
+    },
+    {
+      "id": 8,
+      "content": "I need our reunions to be warm and affectionate."
+    },
+    {
+      "id": 9,
+      "content": "I need you to ask me about what\u2019s going on at work."
+    },
+    {
+      "id": 10,
+      "content": "I need you to put down your phone when I want to talk."
+    },
+    {
+      "id": 11,
+      "content": "I need a foot rub."
+    },
+    {
+      "id": 12,
+      "content": "I need a back rub or a massage."
+    },
+    {
+      "id": 13,
+      "content": "I need for you to offer to do a household chore so I can get some relief."
+    },
+    {
+      "id": 14,
+      "content": "I need you to tell me I look nice."
+    },
+    {
+      "id": 15,
+      "content": "I need you to answer me when I call your name."
+    },
+    {
+      "id": 16,
+      "content": "I need you to answer my texts."
+    },
+    {
+      "id": 17,
+      "content": "I need you to be more affectionate with me."
+    },
+    {
+      "id": 18,
+      "content": "I need you to touch me affectionately more often."
+    },
+    {
+      "id": 19,
+      "content": "I need to go out to dinner and a movie."
+    },
+    {
+      "id": 20,
+      "content": "I need to take a long bath together."
+    },
+    {
+      "id": 21,
+      "content": "I need you to cook a meal or order food in for one night a week."
+    },
+    {
+      "id": 22,
+      "content": "I need for us to have an adventure together."
+    },
+    {
+      "id": 23,
+      "content": "I need some time alone for myself."
+    },
+    {
+      "id": 24,
+      "content": "I need a romantic getaway."
+    },
+    {
+      "id": 25,
+      "content": "I need you to show interest in how my day went."
+    },
+    {
+      "id": 26,
+      "content": "I want to talk about how I\u2019ve changed."
+    },
+    {
+      "id": 27,
+      "content": "I need to visit my family."
+    },
+    {
+      "id": 28,
+      "content": "I need to see my friends."
+    },
+    {
+      "id": 29,
+      "content": "I need for you to do more housework."
+    },
+    {
+      "id": 30,
+      "content": "I need to get dressed up and go out with you."
+    },
+    {
+      "id": 31,
+      "content": "I need to cuddle before we go to sleep."
+    },
+    {
+      "id": 32,
+      "content": "I need a kiss goodnight every night."
+    },
+    {
+      "id": 33,
+      "content": "When I feel depressed, I need you to listen and empathize with me."
+    },
+    {
+      "id": 34,
+      "content": "I need to have a dinner party with some of our friends."
+    },
+    {
+      "id": 35,
+      "content": "I need to know that you think I\u2019m sexy."
+    },
+    {
+      "id": 36,
+      "content": "I need to have more respect from you."
+    },
+    {
+      "id": 37,
+      "content": "I need you to talk to me."
+    },
+    {
+      "id": 38,
+      "content": "I need you to tell me that I\u2019m sexy."
+    },
+    {
+      "id": 39,
+      "content": "I need you to ask me more questions."
+    },
+    {
+      "id": 40,
+      "content": "I need some quiet time alone when I first come home."
+    },
+    {
+      "id": 41,
+      "content": "I need you to listen to me when I\u2019m upset."
+    },
+    {
+      "id": 42,
+      "content": "When I feel angry, I need you to listen and empathize with me."
+    },
+    {
+      "id": 43,
+      "content": "I need your support in my healthy goals process."
+    },
+    {
+      "id": 44,
+      "content": "I need to have a weekly date."
+    },
+    {
+      "id": 45,
+      "content": "I need to know that you feel proud of me."
+    },
+    {
+      "id": 46,
+      "content": "I need you to support me with your family."
+    },
+    {
+      "id": 47,
+      "content": "I need an adventure."
+    },
+    {
+      "id": 48,
+      "content": "I need you to listen to me when I\u2019m sad and not blame me."
+    },
+    {
+      "id": 49,
+      "content": "I need to hear that you are still my best friend."
+    },
+    {
+      "id": 50,
+      "content": "I need your help getting into better physical shape."
+    },
+    {
+      "id": 51,
+      "content": "I need for us to have a better balance between work and family."
+    },
+    {
+      "id": 52,
+      "content": "I need an evening of erotic (or non-erotic) massage."
+    },
+    {
+      "id": 53,
+      "content": "I need for us to have a savings plan."
+    },
+    {
+      "id": 54,
+      "content": "I need us to have a closer relationship with my family."
+    },
+    {
+      "id": 55,
+      "content": "I need you to surprise me more with gifts."
+    },
+    {
+      "id": 56,
+      "content": "I need to have more music in our lives together."
+    },
+    {
+      "id": 57,
+      "content": "I need you to take my side when your family criticizes me."
+    },
+    {
+      "id": 58,
+      "content": "I need us to have weekends where we do things as a family."
+    },
+    {
+      "id": 59,
+      "content": "I need you to speak calmly to me when you\u2019re upset."
+    },
+    {
+      "id": 60,
+      "content": "I need to hear that you find me attractive inside and out."
+    },
+    {
+      "id": 61,
+      "content": "I need you to come up with some fun activities we can do together."
+    },
+    {
+      "id": 62,
+      "content": "I need to hear more compliments from you."
+    },
+    {
+      "id": 63,
+      "content": "I need you to ask me how my day has been and ask me questions."
+    },
+    {
+      "id": 64,
+      "content": "I need you to get a checkup or go to the doctor."
+    },
+    {
+      "id": 65,
+      "content": "I need you to listen and not try to give advice."
+    },
+    {
+      "id": 66,
+      "content": "I need you to say you appreciate my hard work or the long hours I\u2019ve been working."
+    },
+    {
+      "id": 67,
+      "content": "I need to hear you say \u201cI love you.\u201d"
+    },
+    {
+      "id": 68,
+      "content": "I need you to _____________."
+    }
+  ]
+},
+{
+  "id": 5,
+  "title": "Expressing Empathy",
+    "description": "Each card in this deck contains a phrase designed to help you empathize with your partner.",
+  "instructions": "Sometimes it can be difficult to find the words to express empathy for what your partner is feeling. Select and read aloud cards that express understanding and support for your partner\u2019s experience.",
+
+  "cards": [
+    {
+      "id": 1,
+      "content": "That makes sense that you would feel that way."
+    },
+    {
+      "id": 2,
+      "content": "I understand how you feel."
+    },
+    {
+      "id": 3,
+      "content": "You must feel so hopeless."
+    },
+    {
+      "id": 4,
+      "content": "I feel such despair in you when you talk about this."
+    },
+    {
+      "id": 5,
+      "content": "You\u2019re in a tough spot here."
+    },
+    {
+      "id": 6,
+      "content": "I can feel the pain you feel."
+    },
+    {
+      "id": 7,
+      "content": "The world needs to stop when you\u2019re in this much pain."
+    },
+    {
+      "id": 8,
+      "content": "I wish you did not have to go through this."
+    },
+    {
+      "id": 9,
+      "content": "I\u2019m on your side here."
+    },
+    {
+      "id": 10,
+      "content": "I wish I could have been with you in that moment."
+    },
+    {
+      "id": 11,
+      "content": "Oh, wow. That sounds terrible."
+    },
+    {
+      "id": 12,
+      "content": "That hurts me to hear."
+    },
+    {
+      "id": 13,
+      "content": "I support your position here."
+    },
+    {
+      "id": 14,
+      "content": "I totally agree with you."
+    },
+    {
+      "id": 15,
+      "content": "You are making total sense."
+    },
+    {
+      "id": 16,
+      "content": "That sounds like you felt really disgusted!"
+    },
+    {
+      "id": 17,
+      "content": "No wonder you\u2019re upset."
+    },
+    {
+      "id": 18,
+      "content": "I\u2019d feel the same way you do in your situation."
+    },
+    {
+      "id": 19,
+      "content": "I think you\u2019re right."
+    },
+    {
+      "id": 20,
+      "content": "I see. Let me summarize: What you\u2019re thinking here is\u2026"
+    },
+    {
+      "id": 21,
+      "content": "You are in a lot of pain here. I can feel it."
+    },
+    {
+      "id": 22,
+      "content": "It would be great to be free of this."
+    },
+    {
+      "id": 23,
+      "content": "That must have annoyed you."
+    },
+    {
+      "id": 24,
+      "content": "That would make me mad, too."
+    },
+    {
+      "id": 25,
+      "content": "That sounds infuriating."
+    },
+    {
+      "id": 26,
+      "content": "That sounds very frustrating."
+    },
+    {
+      "id": 27,
+      "content": "That sounds like it must have been scary."
+    },
+    {
+      "id": 28,
+      "content": "I agree with most of what you\u2019re saying."
+    },
+    {
+      "id": 29,
+      "content": "I would have also been disappointed by that."
+    },
+    {
+      "id": 30,
+      "content": "That would have hurt my feelings, too."
+    },
+    {
+      "id": 31,
+      "content": "I understand why you\u2019re sad about this."
+    },
+    {
+      "id": 32,
+      "content": "Poor baby!"
+    },
+    {
+      "id": 33,
+      "content": "Wow! That must have hurt."
+    },
+    {
+      "id": 34,
+      "content": "I understand what you are feeling."
+    },
+    {
+      "id": 35,
+      "content": "You are making a lot of sense to me."
+    },
+    {
+      "id": 36,
+      "content": "Okay, I think I get it. It sounds like you\u2019re feeling is ______________."
+    },
+    {
+      "id": 37,
+      "content": "Let me try to summarize what you\u2019re saying. You\u2019re saying ______________."
+    },
+    {
+      "id": 38,
+      "content": "I would have trouble coping with that."
+    },
+    {
+      "id": 39,
+      "content": "What I admire most about what you\u2019re doing is ______________."
+    },
+    {
+      "id": 40,
+      "content": "That would make me feel insecure."
+    },
+    {
+      "id": 41,
+      "content": "That sounds a little frightening."
+    },
+    {
+      "id": 42,
+      "content": "Tell me what you see as your choices here."
+    }
+  ]
+},
+{
+  "id": 6,
+  "title": "Great Listening",
+    "description": "Each card in this deck contains a question designed to help you deepen your understanding of your partner\u2019s experience.",
+  "instructions": "Feeling heard and understood can dramatically increase intimacy in your relationship. Swipe through the card deck and select questions that would best help you understand your partner\u2019s thoughts and feelings about the topic.",
+
+  "cards": [
+    {
+      "id": 1,
+      "content": "What are you feeling?"
+    },
+    {
+      "id": 2,
+      "content": "What are your primary needs here?"
+    },
+    {
+      "id": 3,
+      "content": "What do you really wish for?"
+    },
+    {
+      "id": 4,
+      "content": "How did this all evolve?"
+    },
+    {
+      "id": 5,
+      "content": "Who are the main characters in these feelings you\u2019re talking about?"
+    },
+    {
+      "id": 6,
+      "content": "What would you really like to say? To whom?"
+    },
+    {
+      "id": 7,
+      "content": "What feelings are you afraid to think about?"
+    },
+    {
+      "id": 8,
+      "content": "Do you have any mixed feelings? What are they?"
+    },
+    {
+      "id": 9,
+      "content": "What are your choices as you see them?"
+    },
+    {
+      "id": 10,
+      "content": "What are the positive and negative aspects of each of your choices?"
+    },
+    {
+      "id": 11,
+      "content": "Do you think this has affected our relationship (or another relationship)? If so, how?"
+    },
+    {
+      "id": 12,
+      "content": "Is there some way you wish you could have done things differently? How so?"
+    },
+    {
+      "id": 13,
+      "content": "What are your obligations (or duties) here?"
+    },
+    {
+      "id": 14,
+      "content": "Do you have a choice to make?"
+    },
+    {
+      "id": 15,
+      "content": "What would you really like to ask of me?"
+    },
+    {
+      "id": 16,
+      "content": "What do your values tell you about all this?"
+    },
+    {
+      "id": 17,
+      "content": "Think of someone you really admire. What would they do and how would they view this situation?"
+    },
+    {
+      "id": 18,
+      "content": "Do these feelings and needs have any spiritual, moral, ethical, or religious meaning for you?"
+    },
+    {
+      "id": 19,
+      "content": "Is there anyone or anything you disapprove of here?"
+    },
+    {
+      "id": 20,
+      "content": "Is there anything or anyone you admire here?"
+    },
+    {
+      "id": 21,
+      "content": "Is there anything you\u2019ve learned from this?"
+    },
+    {
+      "id": 22,
+      "content": "Who is most affected by this? How?"
+    },
+    {
+      "id": 23,
+      "content": "Does this remind you of anything else in your past?"
+    },
+    {
+      "id": 24,
+      "content": "What meaning does this have for you?"
+    },
+    {
+      "id": 25,
+      "content": "How does this affect your identity or your idea of yourself?"
+    },
+    {
+      "id": 26,
+      "content": "How might this situation impact you?"
+    },
+    {
+      "id": 27,
+      "content": "How have you changed because of this? How has that affected this situation?"
+    },
+    {
+      "id": 28,
+      "content": "How did this all begin?"
+    },
+    {
+      "id": 29,
+      "content": "What\u2019s your major reaction or complain?"
+    },
+    {
+      "id": 30,
+      "content": "Who do you think is most at fault?"
+    },
+    {
+      "id": 31,
+      "content": "How do you think things will be resolved in the next five years?"
+    },
+    {
+      "id": 32,
+      "content": "How do you wish things would be resolved in the next five years?"
+    },
+    {
+      "id": 33,
+      "content": "Pretend that you only had only six more months to live. What would be most important to you then?"
+    },
+    {
+      "id": 34,
+      "content": "What are your goals?"
+    },
+    {
+      "id": 35,
+      "content": "How does this fit into your life as a whole?"
+    },
+    {
+      "id": 36,
+      "content": "What, if anything, makes you angry in this situation?"
+    },
+    {
+      "id": 37,
+      "content": "What are the \u201cshoulds\u201d here? (Like, what should you take responsibility for?)"
+    },
+    {
+      "id": 38,
+      "content": "What is your biggest turn off about this?"
+    },
+    {
+      "id": 39,
+      "content": "Are there parts of yourself that are in conflict?"
+    }
+  ]
+},
+{
+  "id": 15,
+  "title": "Love Maps",
+  "subsection": "Bringing Baby Home",
+
+  "description": "An important factor in relationship success is \u201cknowing\u201d about your partner\u2019s inner world; we call this idea Love Maps.",
+  "instructions": "Swipe through the deck and see if you can answer the question as it relates to your partner. Then switch roles. Have your partner swipe through the deck and try to answer as it pertains to your world. Don\u2019t keep score. The goal is meaningful conversation and connection.",
+  "cards": [
+    {
+      "id": 1,
+      "content": "If you had to move, where would your partner like to live?"
+    },
+    {
+      "id": 2,
+      "content": "What would be your partner\u2019s dream car?"
+    },
+    {
+      "id": 3,
+      "content": "What is your partner\u2019s favorite holiday? Why?"
+    },
+    {
+      "id": 4,
+      "content": "What is your partner\u2019s favorite place to get away?"
+    },
+    {
+      "id": 5,
+      "content": "What is your partner\u2019s favorite color?"
+    },
+    {
+      "id": 6,
+      "content": "What is your partner\u2019s favorite animal?"
+    },
+    {
+      "id": 7,
+      "content": "What makes your partner sad or upset? What are they currently experiencing that might be upsetting?"
+    },
+    {
+      "id": 8,
+      "content": "What is your partner\u2019s favorite way to celebrate your anniversary?"
+    },
+    {
+      "id": 9,
+      "content": "What is one of your partner\u2019s life dreams?"
+    },
+    {
+      "id": 10,
+      "content": "What is one of your partner\u2019s favorite restaurants?"
+    },
+    {
+      "id": 11,
+      "content": "What are your partner\u2019s hobbies?"
+    },
+    {
+      "id": 12,
+      "content": "What is your partner most excited about lately?"
+    },
+    {
+      "id": 13,
+      "content": "What is your partner\u2019s greatest phobia or fear?"
+    },
+    {
+      "id": 14,
+      "content": "What is your partner\u2019s favorite way to celebrate a birthday?"
+    },
+    {
+      "id": 15,
+      "content": "What is your partner\u2019s favorite way to spend your days off together?"
+    },
+    {
+      "id": 16,
+      "content": "What is your partner\u2019s favorite song?"
+    },
+    {
+      "id": 17,
+      "content": "What is your partner\u2019s favorite book or novel?"
+    },
+    {
+      "id": 18,
+      "content": "What is your partner\u2019s favorite band or musician?"
+    },
+    {
+      "id": 19,
+      "content": "What is your partner\u2019s favorite movie?"
+    },
+    {
+      "id": 20,
+      "content": "What is your partner\u2019s favorite dessert?"
+    },
+    {
+      "id": 21,
+      "content": "What is one of your partner\u2019s concerns or worries?"
+    },
+    {
+      "id": 22,
+      "content": "What foods does your partner dislike?"
+    },
+    {
+      "id": 23,
+      "content": "What does your partner like to do with free time?"
+    },
+    {
+      "id": 24,
+      "content": "How does your partner like to relax?"
+    },
+    {
+      "id": 25,
+      "content": "What are some of your partner\u2019s comfort foods?"
+    },
+    {
+      "id": 26,
+      "content": "How does your partner like to be taken care of when they are sick?"
+    },
+    {
+      "id": 27,
+      "content": "What are some of the most important events coming up in your partner\u2019s life? How do they feel about them?"
+    },
+    {
+      "id": 28,
+      "content": "Name your partner\u2019s two closest friends."
+    },
+    {
+      "id": 29,
+      "content": "Name one of your partner\u2019s least favorite people."
+    },
+    {
+      "id": 30,
+      "content": "How does your partner feel about housework? How does your partner want chores to be divided?"
+    },
+    {
+      "id": 31,
+      "content": "What values does your partner have about work-life balance?"
+    },
+    {
+      "id": 32,
+      "content": "Does your partner have a secret ambition? What is it?"
+    },
+    {
+      "id": 33,
+      "content": "What would be an ideal morning for your partner?"
+    },
+    {
+      "id": 34,
+      "content": "What is your partner\u2019s favorite vacation memory?"
+    },
+    {
+      "id": 35,
+      "content": "What is the story of how your partner got their name?"
+    },
+    {
+      "id": 36,
+      "content": "How does your partner feel about change?"
+    }
+  ]
+},
+{
+  "id": 16,
+  "title": "Expressing Needs",
+  "subsection": "Bringing Baby Home",
+    "description": "Throughout your life together, your needs will change. This is one exercise to identify needs you have at any given time. Then, give one another permission to share needs because when needs are not expressed, negativity and conflict increase.",
+  "instructions": "Review the Expressing Needs prompts and select one that describes a need that you currently have.\nDuring your turn as the speaker, explain the need to your partner, giving as much information as possible.\nAs the listener, try to make an action plan for how you will help meet your partner\u2019s need.\nAlternate between each prompt.",
+  "cards": [
+    {
+      "id": 1,
+      "content": "I need you to share doing chores with me."
+    },
+    {
+      "id": 2,
+      "content": "I need to have some of our friends over for dinner."
+    },
+    {
+      "id": 3,
+      "content": "I need you to be on my side."
+    },
+    {
+      "id": 4,
+      "content": "I need you to be more affectionate with me and to touch me more."
+    },
+    {
+      "id": 5,
+      "content": "I need you to ask me some more questions or talk with me more often."
+    },
+    {
+      "id": 6,
+      "content": "I need you to ask me about my hopes and aspirations."
+    },
+    {
+      "id": 7,
+      "content": "I need you to ask me about my work."
+    },
+    {
+      "id": 8,
+      "content": "I need us to spend our weekends doing activities as a family."
+    },
+    {
+      "id": 9,
+      "content": "I need to travel or plan an adventure."
+    },
+    {
+      "id": 10,
+      "content": "I need to spend some time with my friends."
+    },
+    {
+      "id": 11,
+      "content": "I need to know that you think I\u2019m sexy."
+    },
+    {
+      "id": 12,
+      "content": "I need to know that you feel proud of me."
+    },
+    {
+      "id": 13,
+      "content": "I need to hear that I am your best friend."
+    },
+    {
+      "id": 14,
+      "content": "I need to feel respected by you."
+    },
+    {
+      "id": 15,
+      "content": "I need to go to some live music or concerts together."
+    },
+    {
+      "id": 16,
+      "content": "I need to have some more fun in our lives."
+    },
+    {
+      "id": 17,
+      "content": "I need to have a weekly date with you."
+    },
+    {
+      "id": 18,
+      "content": "I need to talk with you."
+    },
+    {
+      "id": 19,
+      "content": "I need to get dressed up and go out with you."
+    },
+    {
+      "id": 20,
+      "content": "I need you to see that I am a competent parent."
+    },
+    {
+      "id": 21,
+      "content": "I need to feel like I can spend money and treat myself or our family."
+    },
+    {
+      "id": 22,
+      "content": "I need us to have a savings plan."
+    },
+    {
+      "id": 23,
+      "content": "I need to cuddle more."
+    },
+    {
+      "id": 24,
+      "content": "I need to feel close and connected to you."
+    },
+    {
+      "id": 25,
+      "content": "When I first come home, I need some quiet time alone."
+    },
+    {
+      "id": 26,
+      "content": "I need less stress in my life."
+    },
+    {
+      "id": 27,
+      "content": "I need you to do [household chore] so I can get a little rest."
+    },
+    {
+      "id": 28,
+      "content": "I need us to have a better work/life balance."
+    },
+    {
+      "id": 29,
+      "content": "I need to take some time alone."
+    },
+    {
+      "id": 30,
+      "content": "I need our home to be a peaceful place."
+    },
+    {
+      "id": 31,
+      "content": "I need us to make more time for sex and romance."
+    },
+    {
+      "id": 32,
+      "content": "I need a kiss goodnight every night."
+    },
+    {
+      "id": 33,
+      "content": "I need a romantic getaway."
+    },
+    {
+      "id": 34,
+      "content": "I need a massage."
+    }
+  ]
+},
+{
+  "id": 17,
+  "title": "Parenting Roles",
+  "subsection": "Bringing Baby Home",
+
+  "description": "The purpose of this activity is to think about the role or activities you\u2019d like to play in your child\u2019s (children\u2019s) life on an everyday basis",
+  "instructions": "For this exercise, each partner selects 1 to 3 different activities they would like to share with their child.\nJot down your activities on a blank piece of paper, or screenshot the cards\nOnce they\u2019ve independently selected activities, share these activities with each other and communicate how you would like to ritualize these activities.\nAs a partnership, formalize a plan using that activity and write your rituals or plans on a blank piece of paper",
+  "cards": [
+    {
+      "id": 1,
+      "content": "Want:\nI want to take our child to/from daycare or school.\n\nParent Insight:\nChildren develop at such a fast rate that developmental milestones often happen within a daycare setting. Interacting with childcare providers and teachers helps parents to know what their child\u2019s life is like on a daily basis and helps build \u201cKid Love Maps.\u201d"
+    },
+    {
+      "id": 2,
+      "content": "Want:\nI want to get our child dressed.\n\nParent Insight:\nThis can be a fun time for parents to play with a child or to help a baby discover their toes. For older children, this is a great time to build love maps about their clothing preferences. Many children love to play while they are getting dressed."
+    },
+    {
+      "id": 3,
+      "content": "Want:\nI want to change our baby\u2019s diapers.\n\nParent Insight:\nIt is just as important to provide for a child\u2019s daily physical and emotional needs as it is their material needs. A parent\u2019s level of involvement with daily care during an infant\u2019s first year influences child development."
+    },
+    {
+      "id": 4,
+      "content": "Want:\nI want to take our child for a walk.\n\nParent Insight:\nChildren love to take in their surroundings. The outdoors can provide exciting and new stimuli. Walks can also be a great way for parents and kids to wind down after a busy day or before an afternoon nap."
+    },
+    {
+      "id": 5,
+      "content": "Want:\nI want to take our child to the park.\n\nParent Insight:\nParents help their children to become independent by encouraging exploration. The high energy, positive affect play with young children is a known predictor of how a child will be viewed by other children, and how well they will be accepted in school."
+    },
+    {
+      "id": 6,
+      "content": "Want:\nI want to play games with our child such as Peek-a-Boo and Hide-and-Seek.\n\nParent Insight:\nGames are fun. They are a great way to interact, play, and increase cognitive development. Specifically, a parent\u2019s skill as a playmate helps to develop more intellectually advanced children."
+    },
+    {
+      "id": 7,
+      "content": "Want:\nI want to play airplane with our child.\n\nParent Insight:\nSome parents tend to give infants freedom to explore, while others are more cautious. Some play styles tend to be more physical and tactile, and can make it very exciting and fun."
+    },
+    {
+      "id": 8,
+      "content": "Want:\nI want to give our baby a bath.\n\nParent Insight:\nBathtime is playtime for babies. They love to splash around, play with toys, and are soothed by the warm temperature of the water. Most of all, they love the interaction with you."
+    },
+    {
+      "id": 9,
+      "content": "Want:\nI want to teach our child to ride a bike, to swim, or to play a sport.\n\nParent Insight:\nTeaching your child a new skill helps them to develop confidence and an independent mastery of the world around them. It also helps you to have a source of connection and shared meaning with your child."
+    },
+    {
+      "id": 10,
+      "content": "Want:\nI want to tell our child something each day that I appreciate about them.\n\nParent Insight:\nThe positive perspective is built by creating a culture of appreciation in your family. If children receive praise and appreciation from their parents, they are more confident and successful when they try new things on their own."
+    },
+    {
+      "id": 11,
+      "content": "Want:\nI want to give our baby a massage.\n\nParent Insight:\nTouch and comfort are necessary for a baby to become independent and curious explorers. For babies under 4 months of age, a massage before bedtime can help a baby relax and help with restful sleep."
+    },
+    {
+      "id": 12,
+      "content": "Want:\nI want to have story time with our child.\n\nParent Insight:\nBabies begin understanding language around 5 months and begin saying their first words between 11-15 months. Stories, especially when repeated, help babies to learn language. When children are older, reading stories can help them to understand difficult emotions, confusing social situations, and life themes and lessons."
+    },
+    {
+      "id": 13,
+      "content": "Want:\nI want to help our child develop their senses by playing with tactile objects.\n\nParent Insight:\nThere are multiple ways to play with babies and children. Some parents are more physical and tactile in their play style. Being exposed to different textures and objects helps babies to develop their senses and better understand their world."
+    },
+    {
+      "id": 14,
+      "content": "Want:\nI want to teach our child.\n\nParent Insight:\nBabies are born ready to learn from you. Babies love to watch your face and listen to your voice. They learn expressions by imitating you and watching what you do."
+    },
+    {
+      "id": 15,
+      "content": "Want:\nI will prepare our family meals.\n\nParent Insight:\nMealtime is an essential time for making Love Maps and Creating Shared Meaning. It can also be fun! Parents are happier in relationships when both partners make family time a priority."
+    },
+    {
+      "id": 16,
+      "content": "Want:\nI want to dance with our child.\n\nParent Insight:\nDancing to music with children helps them to develop rhythm and an appreciation for music later in life. Music can be a comforting agent to soothe babies and small children. Movement and touch help strengthen a parent\u2019s connection to their child."
+    },
+    {
+      "id": 17,
+      "content": "Want:\nI want each parent to be included in family play time.\n\nParent Insight:\nChildren respond positively to coordinated family play. Babies as young as 3 months understand when they are being asked to play with and include both parents. It is important that parents support each other\u2019s play so that equal participation by both parents is possible."
+    },
+    {
+      "id": 18,
+      "content": "Want:\nI want to create and organize a special holiday ritual.\n\nParent Insight:\nRituals around holidays or special events bring families together, provide opportunities for connection and create shared meaning."
+    },
+    {
+      "id": 19,
+      "content": "Want:\nI want to plan our child\u2019s birthday party.\n\nParent Insight:\nTaking time to plan and coordinate your child\u2019s birthday party will give you an opportunity to take the lead role in creating shared meaning for your family."
+    },
+    {
+      "id": 20,
+      "content": "Want:\nI want to plan a family day out.\n\nParent Insight:\nChildren benefit from active, involved parents. Parent-Parent and Parent-Child relationships benefit when each parent is emotionally available and involved with their kids. "
+    },
+    {
+      "id": 21,
+      "content": "Want:\nI want to \u201cwear\u201d our baby in a baby carrier or a sling.\n\nParent Insight:\nA baby carrier or sling allows parents to stay connected to their baby. This teaches babies to trust and helps parents to be involved with the baby."
+    },
+    {
+      "id": 22,
+      "content": "Want:\nI want to put our child to bed.\n\nParent Insight:\nBedtime is a nurturing time that helps to strengthen attachment between parent and child. Rocking can be a good way to soothe an overstimulated baby, while reading stories helps children develop language. Being sensitive and responsive to your children helps them to become securely attached."
+    },
+    {
+      "id": 23,
+      "content": "Want:\nI want to give our baby a bottle.\n\nParent Insight:\nFor infants, feeding time is a nurturing time that can often be dominated by one parent over the other, especially when the baby is breast-/chestfed.  Giving your baby a bottle can be a way for other family members to take an active part in this nurturing role."
+    },
+    {
+      "id": 24,
+      "content": "Want:\nI want to color or paint with our toddler.\n\nParent Insight:\nGetting involved in a child\u2019s world by joining in activities such as coloring creates situations where the child is able to open up and discuss things that may not naturally come up in other situations. In these early years, you are building a foundation for open dialogue that will build Love Maps for years to come."
+    },
+    {
+      "id": 25,
+      "content": "Want:\nI want to introduce our toddler to new foods.\n\nParent Insight:\nAs your child is ready, sharing and exploring new foods with your child can help parents get to know their child\u2019s preferences. Eating together builds Love Maps and helps you have fun and meaningful experiences together."
+    }
+  ]
+},
+{
+  "id": 18,
+  "title": "Parenting Love Maps",
+  "subsection": "Bringing Baby Home",
+
+  "description": "The purpose of this exercise is for you to learn about your partner\u2019s views on various parenting topics.",
+  "instructions": "The Parents Love Maps is an alternative card deck that has more child-specific questions and allows you to share knowledge about your child.\nChoose one person to start by selecting a question, reading it aloud, and trying to answer it.\nAfter you give your answer, your partner either says, \u201cYes, that\u2019s right,\u201d or if needed, gently corrects the answer.\nAlternate back and forth answering the questions.",
+  "cards": [
+    {
+      "id": 1,
+      "content": "How does your partner feel about giving your child an allowance?"
+    },
+    {
+      "id": 2,
+      "content": "How does your partner feel about having your child sleep in your bed or in the same room with you?"
+    },
+    {
+      "id": 3,
+      "content": "What are your partner\u2019s beliefs about spanking children?"
+    },
+    {
+      "id": 4,
+      "content": "What are your partner\u2019s beliefs about circumcision?"
+    },
+    {
+      "id": 5,
+      "content": "How does your partner feel about sharing diapering or toilet training duties?"
+    },
+    {
+      "id": 6,
+      "content": "How does your partner feel about \u201cscheduling\u201d your baby\u2019s feedings versus feeding \u201con demand\u201d?"
+    },
+    {
+      "id": 7,
+      "content": "How does your partner feel about public versus private school?"
+    },
+    {
+      "id": 8,
+      "content": "How does your partner feel about using disposable versus cloth diapers?"
+    },
+    {
+      "id": 9,
+      "content": "How does your partner feel about breast-/chestfeeding versus bottle-feeding?"
+    },
+    {
+      "id": 10,
+      "content": "What values does your partner have around family mealtimes?"
+    },
+    {
+      "id": 11,
+      "content": "How does your partner feel about sending your child to daycare?"
+    },
+    {
+      "id": 12,
+      "content": "At what age does your partner think potty training should begin?"
+    },
+    {
+      "id": 13,
+      "content": "At what age does your partner think it is okay to leave your child with a babysitter?"
+    },
+    {
+      "id": 14,
+      "content": "At what age does your partner think your child should begin doing chores?"
+    },
+    {
+      "id": 15,
+      "content": "At what age does your partner think your child should begin dating? "
+    },
+    {
+      "id": 16,
+      "content": "At what age does your partner want your child to start preschool?"
+    },
+    {
+      "id": 17,
+      "content": "If you could afford it, would your partner want to hire a nanny?"
+    },
+    {
+      "id": 18,
+      "content": "How many children does your partner want? Why?"
+    },
+    {
+      "id": 19,
+      "content": "At what age does your partner think it is appropriate for your child to have a cell phone?"
+    },
+    {
+      "id": 20,
+      "content": "At what age does your partner think it is appropriate for your child to use social media?"
+    },
+    {
+      "id": 21,
+      "content": "What was your partner\u2019s favorite childhood book? "
+    },
+    {
+      "id": 22,
+      "content": "How would your partner feel if your child grew up to be a member of the LGBTQ+ community?"
+    },
+    {
+      "id": 23,
+      "content": "How would your partner feel if your child grew up and chose a different religious preference? "
+    },
+    {
+      "id": 24,
+      "content": "How does your partner feel about placing limits on technology use and screen time for your child?"
+    },
+    {
+      "id": 25,
+      "content": "How does your partner feel about your child participating in team sports? Does your partner have a preference about which sport(s) they would like your child to play?"
+    },
+    {
+      "id": 26,
+      "content": "How does your partner feel about your child learning to play music? Does your partner have a preference about which instrument or type of music they would like your child to play?"
+    }
+  ]
+},
+{
+  "id": 19,
+  "title": "Open-Ended Questions",
+  "subsection": "Bringing Baby Home",
+
+  "description": "Open-ended questions can\u2019t be answered with a simple \u201cyes\u201d or \u201cno.\u201d They have stories for answers. Uncover your hopes and dreams to deepen your understanding.",
+  "instructions": "Alternate turns asking your partner questions and listen to your partner\u2019s answer. If your partner doesn\u2019t want to answer that question, pick another card.\nRefrain from judgment or criticism, listen closely, and be supportive and empathetic. Alternate roles as speaker and listener.",
+
+  "cards": [
+    {
+      "id": 1,
+      "content": "What are your life dreams, goals, and aspirations?"
+    },
+    {
+      "id": 2,
+      "content": "What do you want your life to be like in five years?"
+    },
+    {
+      "id": 3,
+      "content": "What changes have you experienced in the last year?"
+    },
+    {
+      "id": 4,
+      "content": "In what ways could I support you better as your partner?"
+    },
+    {
+      "id": 5,
+      "content": "Which friends do you rely on most and why?"
+    },
+    {
+      "id": 6,
+      "content": "What are your biggest worries about our future?"
+    },
+    {
+      "id": 7,
+      "content": "How is your parenting style similar to or different than your own parents?"
+    },
+    {
+      "id": 8,
+      "content": "Which of your core values do you want our children to have? Why?"
+    },
+    {
+      "id": 9,
+      "content": "What kind of person do you hope our child will become?"
+    },
+    {
+      "id": 10,
+      "content": "What family traditions do you want to pass down to our child(ren)?"
+    },
+    {
+      "id": 11,
+      "content": "How has your extended family changed toward you since we became parents?"
+    },
+    {
+      "id": 12,
+      "content": "What kind of involvement do you want our extended family to have in our lives?"
+    },
+    {
+      "id": 13,
+      "content": "In what ways has our child (or pregnancy) changed our relationship?"
+    },
+    {
+      "id": 14,
+      "content": "How do you think we could have more fun in our lives?"
+    },
+    {
+      "id": 15,
+      "content": "How do you feel about your current job? OR How do you feel about being a stay-at-home parent?"
+    },
+    {
+      "id": 16,
+      "content": "How do you see your career or work changing in the future?"
+    },
+    {
+      "id": 17,
+      "content": "How do you feel about our family life?"
+    },
+    {
+      "id": 18,
+      "content": "What dreams do you have around traveling or vacations as a family?"
+    },
+    {
+      "id": 19,
+      "content": "How would you like to celebrate holidays as a family?"
+    },
+    {
+      "id": 20,
+      "content": "If we could remodel a part of our home, what would you like to change?"
+    },
+    {
+      "id": 21,
+      "content": "What are your feelings about being a parent?"
+    },
+    {
+      "id": 22,
+      "content": "Who in your life is most stressful to you? Why?"
+    },
+    {
+      "id": 23,
+      "content": "What weekly rituals would you like us to have as a family?"
+    },
+    {
+      "id": 24,
+      "content": "How have your goals in life changed since we became parents?"
+    },
+    {
+      "id": 25,
+      "content": "How have your friendships changed since we became parents?"
+    },
+    {
+      "id": 26,
+      "content": "Who is your role model as a parent? What are their best qualities?"
+    },
+    {
+      "id": 27,
+      "content": "What would you like to change about our finances?"
+    },
+    {
+      "id": 28,
+      "content": "What things do you feel are missing in your life?"
+    },
+    {
+      "id": 29,
+      "content": "What is the biggest challenge for you right now as a parent?"
+    },
+    {
+      "id": 30,
+      "content": "What has been your favorite time or memory during the pregnancy or as a parent? Why?"
+    },
+    {
+      "id": 31,
+      "content": "What are some of the most important events coming up in your life? How do you feel about them?"
+    }
+  ]
+},
+{
+  "id": 20,
+  "title": "Softened Start-Up",
+  "subsection": "Bringing Baby Home",
+
+  "description": "Soft Startup teaches participants to complain without blame and to ask for what they need. Whereas a harsh startup occurs when partners raise issues using criticism or contempt.",
+  "instructions": "Each of the following examples list a Want and a Harsh Startup statement.\nGo through each example and read aloud the Harsh Startup statement.\nTake turns suggesting Soft Startup alternatives for each example until the card deck is completed.",
+  "cards": [
+    {
+      "id": 1,
+      "content": "Topic:\nAttention\n\nWant:\nYour partner has not been paying enough attention to you lately.\n\nHarsh sentence:\nYou are so emotionally unavailable!"
+    },
+    {
+      "id": 2,
+      "content": "Topic:\nTV Watching\n\nWant:\nYou want your partner to watch less TV.\n\nHarsh sentence:\nYou are so lazy! All you ever do is sit on the couch!"
+    },
+    {
+      "id": 3,
+      "content": "Topic:\nListening\n\nWant:\nYou want your partner to listen to you more.\n\nHarsh sentence:\nYou never listen to me!"
+    },
+    {
+      "id": 4,
+      "content": "Topic:\nParties\n\nWant:\nYou think your partner ignores you when you go to parties and chooses to spend time with other people. You are going to a party tonight and want your partner to stay by you.\n\nHarsh sentence:\nAre you just going to me ignore me at the party tonight?"
+    },
+    {
+      "id": 5,
+      "content": "Topic:\nSex\n\nWant:\nYou are upset that you and your partner have not had sex recently. You wonder if your partner still finds you attractive. You hope that the two of you can make love tonight.\n\nHarsh sentence:\nYou aren\u2019t attracted to me anymore! I don\u2019t feel like you even love me."
+    },
+    {
+      "id": 6,
+      "content": "Topic:\nFinances\n\nWant:\nYou want your partner to ask for a raise at work.\n\nHarsh sentence:\nYou don\u2019t have the confidence to ask for a raise to support our family."
+    },
+    {
+      "id": 7,
+      "content": "Topic:\nFinances\n\nWant:\nYou want your partner to pay the bills on time.\n\nHarsh sentence:\nYou are irresponsible. Are you trying to get us sent to collections?"
+    },
+    {
+      "id": 8,
+      "content": "Topic:\nSafety\n\nWant:\nYour partner\u2019s car has a new dent in it. You want them to validate that you are concerned because you care about their safety.\n\nHarsh sentence:\nI saw that new dent. When are you going to stop being so reckless?"
+    },
+    {
+      "id": 9,
+      "content": "Topic:\nSocial Gatherings\n\nWant:\nYou want your partner to be less rowdy at social gatherings.\n\nHarsh sentence:\nI hate that you are so obnoxious at [social gathering]!"
+    },
+    {
+      "id": 10,
+      "content": "Topic:\nParenting\n\nWant:\nYou want your partner to be more involved with the children.\n\nHarsh sentence:\nYou are a terrible parent. It\u2019s like you don\u2019t even care about them. "
+    },
+    {
+      "id": 11,
+      "content": "Topic:\nCleanliness\n\nWant:\nYou want your partner to clean up more around the house.\n\nHarsh sentence:\nYou are such a slob!"
+    },
+    {
+      "id": 12,
+      "content": "Topic:\nGifts/Finances\n\nWant:\nYou wish your partner would occasionally surprise you with flowers or a present.\n\nHarsh sentence:\nYou never buy me anything nice!"
+    },
+    {
+      "id": 13,
+      "content": "Topic:\nMaking Plans\n\nWant:\nYou want your partner to help plan a family gathering.\n\nHarsh sentence:\nYou aren\u2019t capable of planning anything."
+    },
+    {
+      "id": 14,
+      "content": "Topic:\nJealousy\n\nWant:\nYou want your partner to stop flirting at parties.\n\nHarsh sentence:\nI hate how you always act like such a flirt."
+    },
+    {
+      "id": 15,
+      "content": "Topic:\nMaking Meals\n\nWant:\nYou feel like you are the only one that prepares meals for your family. You want your partner to help more often.\n\nHarsh sentence:\nI am sick of doing all the meal preparation. You don\u2019t even know how to chop an onion."
+    },
+    {
+      "id": 16,
+      "content": "Topic:\nIn-laws\n\nWant:\nYou want your partner to call their parents more often.\n\nHarsh sentence:\nDo you even care about your parents?"
+    },
+    {
+      "id": 17,
+      "content": "Topic:\nRunning Errands\n\nWant:\nYou want your partner to be more organized when doing errands like grocery shopping.\n\nHarsh sentence:\nHow could you forget toilet paper? You never remember the important things. "
+    },
+    {
+      "id": 18,
+      "content": "Topic:\nGetting Ready to Go Out\n\nWant:\nYou want your partner to be patient while you are getting ready to go out.\n\nHarsh sentence:\nCan you stop rushing me? You have no patience."
+    },
+    {
+      "id": 19,
+      "content": "Topic:\nTime Together\n\nWant:\nYou want to spend time together on the weekends.\n\nHarsh sentence:\nYou are a workaholic. Do you even care about us spending time together?"
+    },
+    {
+      "id": 20,
+      "content": "Topic:\nFriends\n\nWant:\nYou want your partner to be more attentive to your friends.\n\nHarsh sentence:\nYou always act so cold to my friends. They don\u2019t like being around you."
+    },
+    {
+      "id": 21,
+      "content": "Topic:\nCommunication\n\nWant:\nYou want your partner to discuss issues with you and not ignore them.\n\nHarsh sentence:\nYou always shut down when I bring up something important. "
+    },
+    {
+      "id": 22,
+      "content": "Topic:\nFinances\n\nWant:\nYou want the two of you to save more money.\n\nHarsh sentence:\nYou have no idea how to handle money."
+    },
+    {
+      "id": 23,
+      "content": "Topic:\nHealth Habits\n\nWant:\nYou want your partner to live a healthier lifestyle.\n\nHarsh sentence:\nI\u2019m tired of you being so overweight. You don\u2019t care about your health at all."
+    },
+    {
+      "id": 24,
+      "content": "Topic:\nDisciplining the Children\n\nWant:\nYou want your partner to be less strict with your children.\n\nHarsh sentence:\nYou are so uptight. You\u2019re scaring the kids with all your rules."
+    },
+    {
+      "id": 25,
+      "content": "Topic:\nDisciplining the Children\n\nWant:\nYou want your partner to help discipline your children so you aren\u2019t always the \u201cbad parent.\u201d\n\nHarsh sentence:\nYou let the kids get away with everything. They\u2019re spoiled because of you."
+    },
+    {
+      "id": 26,
+      "content": "Topic:\nIn-laws\n\nWant:\nYour in-laws criticize you often. You want your partner to be on your side.\n\nHarsh sentence:\nI hate dealing with your parents, and you never stand up for me."
+    },
+    {
+      "id": 27,
+      "content": "Topic:\nConversations\n\nWant:\nYou want your partner to ask you about your day.\n\nHarsh sentence:\nAll you ever do is talk about yourself!"
+    },
+    {
+      "id": 28,
+      "content": "Topic:\nCommunication\n\nWant:\nYou want your partner to share more of their feelings.\n\nHarsh sentence:\nDo you even have any feelings?"
+    },
+    {
+      "id": 29,
+      "content": "Topic:\nHousework\n\nWant:\nYou want your partner to help with more housework.\n\nHarsh sentence:\nYou never help around the house. You are so lazy!"
+    }
+  ]
+}
+]
+}
